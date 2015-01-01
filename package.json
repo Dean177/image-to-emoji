@@ -1,0 +1,35 @@
+{
+  "name": "image-to-emoji",
+  "version": "0.0.1",
+  "description": "Convert images to ASCII style emoji representation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dean177/image-to-emoji"
+  },
+  "keywords": [
+    "emoji",
+    "image",
+    "conversion",
+    "ASCII"
+  ],
+  "author": "Dean Merchant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dean177/image-to-emoji/issues"
+  },
+  "homepage": "https://github.com/Dean177/image-to-emoji",
+  "dependencies": {
+    "bluebird": "^2.5.3",
+    "fs-extra": "^0.13.0",
+    "lwip": "0.0.6",
+    "mime": "^1.2.11"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
