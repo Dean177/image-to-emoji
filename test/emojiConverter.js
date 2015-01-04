@@ -73,7 +73,6 @@ describe('EmojiConverter', function() {
 
     describe('#convertImageToEmoji', function() {
         it('can write the image to a file', function () {
-            this.timeout(4000);
             return emojiConverter
                 .convertImageToEmoji(path.join(__dirname, "grumpy-cat.jpg"))
                 .then(function (emojiImage) {

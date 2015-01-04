@@ -20,10 +20,10 @@ describe('Color', function(){
         color.getRGB().b.should.equal(rgb.b);
     });
 
-    it('can find the square of the distance between two colors', function() {
+    it('can find the distance between two colors', function() {
         var red = new Color({r: 255, g:0, b:0});
         var black = new Color({r: 0, g:0, b:0});
 
-        red.distanceToColorSquared(black).should.equal(Math.pow(255, 2));
+        red.distanceToColor(black).should.equal(255);
     });
 });

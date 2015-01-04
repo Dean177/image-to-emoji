@@ -30,10 +30,10 @@ Color.prototype.getHexValue = function() {
     return "#" + toHex(this.r) + toHex(this.g) + toHex(this.b);
 };
 
-Color.prototype.distanceToColorSquared = function(color) {
-    return Math.pow(this.r - color.r, 2) +
-        Math.pow((this.g - color.g), 2) +
-        Math.pow((this.b - color.b), 2)
+Color.prototype.distanceToColor = function(color) {
+    return Math.abs(this.r - color.r) +
+        Math.abs((this.g - color.g)) +
+        Math.abs((this.b - color.b))
         ;
 };
 

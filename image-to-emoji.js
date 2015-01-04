@@ -10,7 +10,7 @@ function EmojiConverter() {
     this.jsonFile = "hexValueImageMap.json";
     this.emojiPath = path.join(__dirname, "/../", "Emojis");
     this.hexToEmoji = {};
-    this.hexToRGB = {};
+    this.hexToRGBMap = {};
     var self = this;
 
     this.convertImageToEmoji = function(imagePath) {
@@ -23,12 +23,16 @@ function EmojiConverter() {
                 var imageChunksProcessedTime = new Date().getTime();
                 console.log("imageChunks processed in: " + (imageChunksProcessedTime - startTime) + "ms");
 
-                return Promise.each(emojiChunkMap, function(emojiChunk) {
-                    return self._paste(emojiChunk.coordinates, emojiChunk.emoji, emojiImage);
-                }).then(function() {
-                    var imageDrawnTime = new Date().getTime() - imageChunksProcessedTime;
-                    console.log("images drawn in: " + imageDrawnTime + "ms");
-                    return emojiImage;
+                // TODO extract this method
+                return new Promise(function(resolve, reject) {
+                    var batch = emojiImage.batch();
+                    emojiChunkMap.forEach(function(chunk) {
+                        batch.paste(chunk.coordinates.left, chunk.coordinates.top, chunk.emoji);
+                    });
+
+                    batch.exec(function (err, emojiImage) {
+                        if (err) { reject(err); } else { resolve(emojiImage); }
+                    });
                 });
             });
         });
@@ -48,12 +52,6 @@ function EmojiConverter() {
             .getAverageRGB(chunk, image)
             .then(self._getEmojiFromColor)
             .then(self._openImage)
-            // TODO
-            //.then(function(emojiImage) {
-            //    var width = chunk.right - chunk.left;
-            //    var height = chunk.bottom - chunk.top;
-            //    return self._resize(width, height, emojiImage);
-            //})
             .then(function(resizedEmoji) {
                 return {emoji: resizedEmoji, coordinates: chunk};
             });
@@ -63,18 +61,15 @@ function EmojiConverter() {
         var emojiKey = null;
         var minimumDifference = Number.MAX_VALUE;
 
-        Object.keys(self.hexToEmoji)
-            .map(function(hexValue) {
-                return new Color(Color.hexToRGB(hexValue));
-            })
-            .forEach(function(emojiColor) {
-                var distance = color.distanceToColorSquared(emojiColor);
+        for (var hex in self.hexToRGBMap) {
+            var emojiColor = self.hexToRGBMap[hex];
+            var distance = color.distanceToColor(emojiColor);
 
-                if(distance < minimumDifference) {
-                    emojiKey = emojiColor.getHexValue();
-                    minimumDifference = distance;
-                }
-            });
+            if(distance < minimumDifference) {
+                emojiKey = hex;
+                minimumDifference = distance;
+            }
+        }
 
         return path.join(self.emojiPath, "16px", self.hexToEmoji[emojiKey]);
     };
@@ -86,7 +81,10 @@ function EmojiConverter() {
         if (fs.existsSync(path.join(emojiPath, self.jsonFile))) {
             return fs
                 .readJSONAsync(path.join(emojiPath, "/", self.jsonFile))
-                .then(function(hexToEmojiMap) { self.hexToEmoji = hexToEmojiMap; });
+                .then(function(hexMaps) {
+                    self.hexToRGBMap = hexMaps.hexToRGBMap;
+                    self.hexToEmoji = hexMaps.hexToEmojiMap;
+                });
         } else {
             return self.constructImageMap(emojiPath);
         }
@@ -104,12 +102,12 @@ function EmojiConverter() {
                     .then(function(image) { return self.getAverageRGB(null, image) })
                     .then(function(color) {
                         var hexValue = color.getHexValue();
-                        self.hexToRGB[hexValue] = color;
+                        self.hexToRGBMap[hexValue] = color;
                         self.hexToEmoji[hexValue] = emoji;
                     })
             }))
             .then(function () {
-                return fs.writeJSONAsync(path.join(imagePath, "/", self.jsonFile), self.hexToEmoji)
+                return fs.writeJSONAsync(path.join(imagePath, "/", self.jsonFile), { hexToEmojiMap: self.hexToEmoji, hexToRGBMap: self.hexToRGBMap})
             });
     };
 }
@@ -159,14 +157,6 @@ EmojiConverter.prototype._resize = function(width, height, image) {
       image.resize(width, height, "grid", function(err, resizedImage) {
           if (err) { reject(err) } else { resolve(resizedImage); }
       });
-    });
-};
-
-EmojiConverter.prototype._paste = function(position, imageToBePasted, targetImage) {
-    return new Promise(function (resolve, reject) {
-        targetImage.paste(position.left, position.top, imageToBePasted, function (err, newImage) {
-            if (err) { reject(err); } else { resolve(newImage); }
-        })
     });
 };
 

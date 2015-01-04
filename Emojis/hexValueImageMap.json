@@ -1,772 +1,4686 @@
 {
-  "#8b8177": "Emoji Natur-01.png",
-  "#8d8487": "Emoji Natur-04.png",
-  "#6b6147": "Emoji Natur-02.png",
-  "#aa897f": "Emoji Natur-05.png",
-  "#706a6c": "Emoji Natur-06.png",
-  "#689570": "Emoji Natur-07.png",
-  "#bba672": "Emoji Natur-08.png",
-  "#776e6d": "Emoji Natur-09.png",
-  "#4a797b": "Emoji Natur-100.png",
-  "#99825c": "Emoji Natur-10.png",
-  "#527d77": "Emoji Natur-101.png",
-  "#ab735e": "Emoji Natur-102.png",
-  "#696f8a": "Emoji Natur-103.png",
-  "#6e838d": "Emoji Natur-104.png",
-  "#a18a4e": "Emoji Natur-03.png",
-  "#9a948b": "Emoji Natur-107.png",
-  "#c8cacf": "Emoji Natur-108.png",
-  "#7d6f5b": "Emoji Natur-109.png",
-  "#af8a92": "Emoji Natur-11.png",
-  "#47416e": "Emoji Natur-110.png",
-  "#8792a1": "Emoji Natur-111.png",
-  "#69696d": "Emoji Natur-112.png",
-  "#516499": "Emoji Natur-113.png",
-  "#b4c5ca": "Emoji Natur-114.png",
-  "#8cabb1": "Emoji Natur-115.png",
-  "#535c68": "Emoji Natur-116.png",
-  "#a9808b": "Emoji Natur-12.png",
-  "#7a6e66": "Emoji Natur-13.png",
-  "#4a423c": "Emoji Natur-14.png",
-  "#8d8267": "Emoji Natur-105.png",
-  "#8f816c": "Emoji Natur-15.png",
-  "#786f61": "Emoji Natur-16.png",
-  "#9c9587": "Emoji Natur-18.png",
-  "#6d4e19": "Emoji Natur-106.png",
-  "#959595": "Emoji Natur-20.png",
-  "#7b7c76": "Emoji Natur-21.png",
-  "#574e3b": "Emoji Natur-17.png",
-  "#c6b075": "Emoji Natur-23.png",
-  "#746132": "Emoji Natur-24.png",
-  "#a4938d": "Emoji Natur-26.png",
-  "#326240": "Emoji Natur-27.png",
-  "#5c7155": "Emoji Natur-28.png",
-  "#454729": "Emoji Natur-29.png",
-  "#6b644b": "Emoji Natur-30.png",
-  "#2c2c2c": "Emoji Natur-31.png",
-  "#7a664f": "Emoji Natur-33.png",
-  "#61453c": "Emoji Natur-32.png",
-  "#858b89": "Emoji Natur-22.png",
-  "#7a7271": "Emoji Natur-35.png",
-  "#714146": "Emoji Natur-34.png",
-  "#627150": "Emoji Natur-36.png",
-  "#55787c": "Emoji Natur-38.png",
-  "#8d99a7": "Emoji Natur-37.png",
-  "#4a6574": "Emoji Natur-39.png",
-  "#787574": "Emoji Natur-41.png",
-  "#434b57": "Emoji Natur-40.png",
-  "#857f81": "Emoji Natur-19.png",
-  "#857f7e": "Emoji Natur-43.png",
-  "#81775a": "Emoji Natur-25.png",
-  "#666363": "Emoji Natur-44.png",
-  "#4a654d": "Emoji Natur-47.png",
-  "#444234": "Emoji Natur-48.png",
-  "#9a8671": "Emoji Natur-45.png",
-  "#82827b": "Emoji Natur-49.png",
-  "#7c716e": "Emoji Natur-50.png",
-  "#7c6b53": "Emoji Natur-51.png",
-  "#918e7f": "Emoji Natur-42.png",
-  "#ac998b": "Emoji Natur-52.png",
-  "#7f6651": "Emoji Natur-54.png",
-  "#495e47": "Emoji Natur-55.png",
-  "#53644f": "Emoji Natur-57.png",
-  "#7e7261": "Emoji Natur-58.png",
-  "#9e978e": "Emoji Natur-56.png",
-  "#6f5d49": "Emoji Natur-59.png",
-  "#948879": "Emoji Natur-60.png",
-  "#7c7269": "Emoji Natur-61.png",
-  "#4e4a46": "Emoji Natur-62.png",
-  "#593236": "Emoji Natur-63.png",
-  "#936977": "Emoji Natur-65.png",
-  "#c3c0c0": "Emoji Natur-53.png",
-  "#7f5a50": "Emoji Natur-68.png",
-  "#524448": "Emoji Natur-66.png",
-  "#7b6b3d": "Emoji Natur-69.png",
-  "#734b42": "Emoji Natur-71.png",
-  "#ac5562": "Emoji Natur-70.png",
-  "#7d6649": "Emoji Natur-73.png",
-  "#5c614c": "Emoji Natur-75.png",
-  "#3f5329": "Emoji Natur-72.png",
-  "#aaa7a7": "Emoji Natur-46.png",
-  "#3c4a30": "Emoji Natur-74.png",
-  "#423427": "Emoji Natur-64.png",
-  "#926357": "Emoji Natur-76.png",
-  "#283622": "Emoji Natur-78.png",
-  "#5a5f42": "Emoji Natur-79.png",
-  "#573224": "Emoji Natur-81.png",
-  "#657262": "Emoji Natur-82.png",
-  "#43515f": "Emoji Natur-84.png",
-  "#505b26": "Emoji Natur-80.png",
-  "#508942": "Emoji Natur-67.png",
-  "#996f24": "Emoji Natur-85.png",
-  "#c6b765": "Emoji Natur-86.png",
-  "#666872": "Emoji Natur-87.png",
-  "#575860": "Emoji Natur-88.png",
-  "#736f65": "Emoji Natur-89.png",
-  "#908969": "Emoji Natur-90.png",
-  "#afa674": "Emoji Natur-91.png",
-  "#b1aa79": "Emoji Natur-93.png",
-  "#cabf7c": "Emoji Natur-92.png",
-  "#918d74": "Emoji Natur-94.png",
-  "#6f6e67": "Emoji Natur-95.png",
-  "#cbc29b": "Emoji Natur-97.png",
-  "#80734d": "Emoji Natur-98.png",
-  "#5a826a": "Emoji Natur-99.png",
-  "#8f9487": "Emoji Objects-01.png",
-  "#ac7178": "Emoji Objects-02.png",
-  "#553337": "Emoji Objects-03.png",
-  "#1d1916": "Emoji Objects-05.png",
-  "#813a46": "Emoji Objects-04.png",
-  "#778a8b": "Emoji Objects-07.png",
-  "#5c7752": "Emoji Natur-77.png",
-  "#564f53": "Emoji Objects-06.png",
-  "#9ba3a8": "Emoji Objects-09.png",
-  "#89959b": "Emoji Objects-10.png",
-  "#cecece": "Emoji Objects-100.png",
-  "#c0c4c9": "Emoji Objects-103.png",
-  "#b3b3b3": "Emoji Symbols-200.png",
-  "#ced2db": "Emoji Objects-105.png",
-  "#b3b4b7": "Emoji Objects-102.png",
-  "#b69899": "Emoji Objects-108.png",
-  "#9b8444": "Emoji Natur-83.png",
-  "#978485": "Emoji Objects-109.png",
-  "#a2713d": "Emoji Objects-11.png",
-  "#929191": "Emoji Objects-110.png",
-  "#a79a8d": "Emoji Objects-107.png",
-  "#8a8f95": "Emoji Objects-111.png",
-  "#777d83": "Emoji Objects-112.png",
-  "#412121": "Emoji Objects-114.png",
-  "#2b1a1b": "Emoji Objects-113.png",
-  "#404040": "Emoji Objects-131.png",
-  "#2f2f2f": "Emoji Objects-116.png",
-  "#4d422a": "Emoji Objects-117.png",
-  "#454952": "Emoji Objects-118.png",
-  "#3a3e47": "Emoji Objects-119.png",
-  "#868283": "Emoji Objects-12.png",
-  "#72818c": "Emoji Objects-08.png",
-  "#6e8650": "Emoji Objects-121.png",
-  "#4f6c88": "Emoji Objects-122.png",
-  "#a77248": "Emoji Objects-123.png",
-  "#a99844": "Emoji Objects-126.png",
-  "#d5d0d2": "Emoji Objects-104.png",
-  "#a9946c": "Emoji Objects-125.png",
-  "#5a5e4b": "Emoji Objects-127.png",
-  "#9499a3": "Emoji Objects-128.png",
-  "#737272": "Emoji Objects-124.png",
-  "#625856": "Emoji Objects-129.png",
-  "#98846b": "Emoji Objects-106.png",
-  "#956f6a": "Emoji Objects-13.png",
-  "#343434": "Emoji Objects-136.png",
-  "#a9a9a8": "Emoji Objects-133.png",
-  "#666f6b": "Emoji Objects-135.png",
-  "#927857": "Emoji Objects-134.png",
-  "#151515": "Emoji Objects-138.png",
-  "#5e5e5e": "Emoji Symbols-145.png",
-  "#393753": "Emoji Objects-139.png",
-  "#333333": "Emoji Objects-140.png",
-  "#767677": "Emoji Objects-141.png",
-  "#585e3e": "Emoji Objects-14.png",
-  "#5a473e": "Emoji Objects-142.png",
-  "#422d21": "Emoji Objects-145.png",
-  "#48412d": "Emoji Objects-143.png",
-  "#c8c5c3": "Emoji Objects-148.png",
-  "#695c79": "Emoji Objects-146.png",
-  "#1d1d1e": "Emoji Objects-147.png",
-  "#a08284": "Emoji Objects-149.png",
-  "#d0bdaf": "Emoji Objects-150.png",
-  "#8b484b": "Emoji Objects-120.png",
-  "#aaa8a8": "Emoji Objects-151.png",
-  "#645a45": "Emoji Objects-144.png",
-  "#a56674": "Emoji Objects-152.png",
-  "#6c361d": "Emoji Objects-154.png",
-  "#5f4646": "Emoji Objects-153.png",
-  "#5b5a5a": "Emoji Objects-155.png",
-  "#414141": "Emoji Objects-158.png",
-  "#708c33": "Emoji Objects-157.png",
-  "#53493d": "Emoji Objects-16.png",
-  "#835626": "Emoji Objects-159.png",
-  "#a66663": "Emoji Objects-130.png",
-  "#28290b": "Emoji Objects-161.png",
-  "#292f23": "Emoji Objects-163.png",
-  "#7f7f7f": "Emoji Objects-164.png",
-  "#43403a": "Emoji Objects-165.png",
-  "#735a41": "Emoji Objects-162.png",
-  "#26493f": "Emoji Objects-167.png",
-  "#827f7a": "Emoji Objects-168.png",
-  "#77674d": "Emoji Objects-166.png",
-  "#568a8b": "Emoji Objects-169.png",
-  "#4a342f": "Emoji Objects-17.png",
-  "#3a5e55": "Emoji Objects-170.png",
-  "#2c2e32": "Emoji Objects-171.png",
-  "#555350": "Emoji Objects-172.png",
-  "#767464": "Emoji Objects-173.png",
-  "#805534": "Emoji Objects-15.png",
-  "#b19c81": "Emoji Objects-176.png",
-  "#6f7370": "Emoji Objects-175.png",
-  "#a28967": "Emoji Objects-177.png",
-  "#a5a5a2": "Emoji Objects-178.png",
-  "#797373": "Emoji Objects-156.png",
-  "#a99985": "Emoji Objects-179.png",
-  "#594b45": "Emoji Objects-18.png",
-  "#aa999c": "Emoji Objects-180.png",
-  "#959698": "Emoji Objects-181.png",
-  "#513522": "Emoji Objects-182.png",
-  "#4a4848": "Emoji Objects-160.png",
-  "#b78e69": "Emoji Objects-183.png",
-  "#8a542c": "Emoji Objects-184.png",
-  "#5b3f2b": "Emoji Objects-186.png",
-  "#7f6d59": "Emoji Objects-187.png",
-  "#a19893": "Emoji Objects-188.png",
-  "#8e5e43": "Emoji Objects-189.png",
-  "#b29296": "Emoji Objects-19.png",
-  "#a96e6a": "Emoji Objects-191.png",
-  "#9e8781": "Emoji Objects-190.png",
-  "#82827e": "Emoji Objects-193.png",
-  "#b8abb2": "Emoji Objects-192.png",
-  "#886447": "Emoji Objects-194.png",
-  "#6b6050": "Emoji Objects-196.png",
-  "#8e8e8e": "Emoji Objects-195.png",
-  "#5d5c57": "Emoji Objects-197.png",
-  "#686161": "Emoji Objects-20.png",
-  "#534c45": "Emoji Objects-198.png",
-  "#5d5552": "Emoji Objects-199.png",
-  "#504d44": "Emoji Objects-200.png",
-  "#b69f7c": "Emoji Objects-201.png",
-  "#746154": "Emoji Objects-202.png",
-  "#695f46": "Emoji Objects-204.png",
-  "#a4898f": "Emoji Objects-206.png",
-  "#a9a49c": "Emoji Objects-205.png",
-  "#5e553a": "Emoji Objects-174.png",
-  "#aca59b": "Emoji Objects-207.png",
-  "#806a7f": "Emoji Objects-21.png",
-  "#714e31": "Emoji Objects-209.png",
-  "#634c49": "Emoji Objects-210.png",
-  "#616265": "Emoji Objects-211.png",
-  "#5a4d41": "Emoji Objects-212.png",
-  "#513f35": "Emoji Objects-185.png",
-  "#7b2e2b": "Emoji Objects-214.png",
-  "#556b31": "Emoji Objects-215.png",
-  "#814a1d": "Emoji Objects-216.png",
-  "#9d9247": "Emoji Objects-217.png",
-  "#451817": "Emoji Objects-218.png",
-  "#784f4c": "Emoji Objects-220.png",
-  "#4e4e4e": "Emoji Objects-22.png",
-  "#632e5f": "Emoji Objects-219.png",
-  "#66372e": "Emoji Objects-221.png",
-  "#915547": "Emoji Objects-222.png",
-  "#695f3d": "Emoji Objects-224.png",
-  "#757250": "Emoji Objects-223.png",
-  "#727a36": "Emoji Objects-225.png",
-  "#3a3818": "Emoji Objects-226.png",
-  "#4c3d4b": "Emoji Objects-228.png",
-  "#9e917e": "Emoji Objects-203.png",
-  "#ac9b91": "Emoji Objects-208.png",
-  "#7d3d26": "Emoji Objects-229.png",
-  "#b3b6bb": "Emoji Objects-23.png",
-  "#656440": "Emoji Objects-230.png",
-  "#75777d": "Emoji Objects-24.png",
-  "#9b9c9e": "Emoji Objects-25.png",
-  "#a0a19e": "Emoji Objects-26.png",
-  "#8b652a": "Emoji Objects-213.png",
-  "#a89f80": "Emoji Objects-27.png",
-  "#999b9f": "Emoji Objects-29.png",
-  "#758ead": "Emoji Objects-30.png",
-  "#909191": "Emoji Objects-31.png",
-  "#973d48": "Emoji Objects-32.png",
-  "#858784": "Emoji Objects-34.png",
-  "#2e2e2e": "Emoji Symbols-185.png",
-  "#9e9b8e": "Emoji Objects-35.png",
-  "#75756d": "Emoji Objects-36.png",
-  "#6d6157": "Emoji Objects-37.png",
-  "#86775c": "Emoji Objects-38.png",
-  "#3f3f3f": "Emoji Symbols-182.png",
-  "#636363": "Emoji Objects-40.png",
-  "#434344": "Emoji Objects-41.png",
-  "#573f3f": "Emoji Objects-42.png",
-  "#86745c": "Emoji Objects-43.png",
-  "#835c4a": "Emoji Objects-44.png",
-  "#5e533a": "Emoji Objects-46.png",
-  "#756646": "Emoji Objects-45.png",
-  "#493d38": "Emoji Objects-47.png",
-  "#493c36": "Emoji Objects-48.png",
-  "#663331": "Emoji Objects-49.png",
-  "#969696": "Emoji Symbols-172.png",
-  "#bbaf9a": "Emoji Objects-51.png",
-  "#cabea7": "Emoji Objects-52.png",
-  "#968f84": "Emoji Objects-53.png",
-  "#947b59": "Emoji Objects-54.png",
-  "#5d4839": "Emoji Objects-227.png",
-  "#474949": "Emoji Objects-63.png",
-  "#46484b": "Emoji Objects-58.png",
-  "#4e3c16": "Emoji Objects-59.png",
-  "#b8af9b": "Emoji Objects-60.png",
-  "#a6c2a7": "Emoji Objects-62.png",
-  "#4c4c4b": "Emoji Objects-64.png",
-  "#504f4f": "Emoji Objects-65.png",
-  "#858585": "Emoji Objects-67.png",
-  "#a29f90": "Emoji Objects-28.png",
-  "#37666b": "Emoji Objects-66.png",
-  "#abacad": "Emoji Objects-68.png",
-  "#2b2724": "Emoji Objects-70.png",
-  "#ae9376": "Emoji Objects-71.png",
-  "#454545": "Emoji Objects-69.png",
-  "#62605c": "Emoji Objects-72.png",
-  "#3f393b": "Emoji Objects-73.png",
-  "#635442": "Emoji Objects-55.png",
-  "#3c3c3c": "Emoji Objects-75.png",
-  "#b4b0a3": "Emoji Objects-57.png",
-  "#231818": "Emoji Objects-77.png",
-  "#7c552f": "Emoji Objects-76.png",
-  "#a69f91": "Emoji Objects-79.png",
-  "#a9a597": "Emoji Objects-80.png",
-  "#1a1918": "Emoji Objects-61.png",
-  "#b0aaaa": "Emoji Objects-81.png",
-  "#adb2a5": "Emoji Objects-82.png",
-  "#aca895": "Emoji Objects-83.png",
-  "#7d7b6b": "Emoji Objects-84.png",
-  "#cfd1e0": "Emoji Objects-86.png",
-  "#474e55": "Emoji Objects-85.png",
-  "#918f98": "Emoji Objects-87.png",
-  "#dfdfdf": "Emoji Objects-89.png",
-  "#918e98": "Emoji Objects-88.png",
-  "#9a8f8d": "Emoji Objects-90.png",
-  "#9b908f": "Emoji Objects-91.png",
-  "#6d82a1": "Emoji Objects-93.png",
-  "#aca07f": "Emoji Objects-78.png",
-  "#687e9d": "Emoji Objects-94.png",
-  "#747682": "Emoji Objects-96.png",
-  "#b47672": "Emoji Objects-97.png",
-  "#423828": "Emoji Objects-92.png",
-  "#7a6248": "Emoji Objects-98.png",
-  "#bab4a8": "Emoji Objects-99.png",
-  "#949286": "Emoji Orte-01.png",
-  "#a5a16f": "Emoji Orte-03.png",
-  "#9a9287": "Emoji Orte-05.png",
-  "#9e9597": "Emoji Orte-06.png",
-  "#7c8d90": "Emoji Orte-07.png",
-  "#69767a": "Emoji Orte-08.png",
-  "#a27d93": "Emoji Orte-09.png",
-  "#b99eba": "Emoji Orte-100.png",
-  "#92817e": "Emoji Orte-10.png",
-  "#bd9faf": "Emoji Orte-101.png",
-  "#81666f": "Emoji Orte-11.png",
-  "#6f735a": "Emoji Orte-02.png",
-  "#9d9ea6": "Emoji Orte-13.png",
-  "#c68d5c": "Emoji Orte-15.png",
-  "#6c6c6e": "Emoji Objects-74.png",
-  "#a3b8b6": "Emoji Orte-17.png",
-  "#aa9697": "Emoji Orte-18.png",
-  "#7e846c": "Emoji Orte-19.png",
-  "#aca3a4": "Emoji Orte-20.png",
-  "#7494c2": "Emoji Orte-22.png",
-  "#96a5b0": "Emoji Orte-23.png",
-  "#757685": "Emoji Objects-95.png",
-  "#a18b85": "Emoji Orte-24.png",
-  "#d49669": "Emoji Orte-25.png",
-  "#706c68": "Emoji Orte-12.png",
-  "#85a9b5": "Emoji Orte-27.png",
-  "#596b7f": "Emoji Orte-26.png",
-  "#6d577e": "Emoji Orte-28.png",
-  "#9ba3c0": "Emoji Orte-30.png",
-  "#7b94a6": "Emoji Orte-29.png",
-  "#819b9c": "Emoji Orte-31.png",
-  "#afaab2": "Emoji Orte-32.png",
-  "#9296a0": "Emoji Orte-33.png",
-  "#664734": "Emoji Orte-34.png",
-  "#5b6877": "Emoji Orte-36.png",
-  "#7f7871": "Emoji Orte-14.png",
-  "#9b6f56": "Emoji Orte-16.png",
-  "#434a53": "Emoji Orte-37.png",
-  "#30373c": "Emoji Orte-39.png",
-  "#624b44": "Emoji Orte-38.png",
-  "#343938": "Emoji Orte-43.png",
-  "#6c6f7f": "Emoji Orte-40.png",
-  "#725b55": "Emoji Orte-42.png",
-  "#474947": "Emoji Orte-44.png",
-  "#645d61": "Emoji Orte-41.png",
-  "#8c8faa": "Emoji Orte-48.png",
-  "#b9b8c2": "Emoji Orte-21.png",
-  "#ac9e85": "Emoji Orte-35.png",
-  "#858b96": "Emoji Orte-47.png",
-  "#747e98": "Emoji Orte-49.png",
-  "#5f6565": "Emoji Orte-50.png",
-  "#6a6b60": "Emoji Orte-52.png",
-  "#53586c": "Emoji Orte-51.png",
-  "#727468": "Emoji Orte-53.png",
-  "#5e697f": "Emoji Orte-54.png",
-  "#ab977e": "Emoji Orte-55.png",
-  "#6c766a": "Emoji Orte-56.png",
-  "#556a81": "Emoji Orte-57.png",
-  "#997171": "Emoji Orte-59.png",
-  "#446996": "Emoji Orte-58.png",
-  "#6a6b46": "Emoji Orte-61.png",
-  "#4e665a": "Emoji Orte-62.png",
-  "#9d814d": "Emoji Orte-63.png",
-  "#96865f": "Emoji Orte-60.png",
-  "#bf7175": "Emoji Orte-64.png",
-  "#6f7579": "Emoji Orte-66.png",
-  "#7b676a": "Emoji Orte-68.png",
-  "#8f5c5a": "Emoji Orte-67.png",
-  "#75767a": "Emoji Orte-69.png",
-  "#5c5f65": "Emoji Orte-70.png",
-  "#655f4c": "Emoji Orte-72.png",
-  "#747373": "Emoji Orte-65.png",
-  "#afa2b0": "Emoji Orte-75.png",
-  "#716950": "Emoji Orte-74.png",
-  "#b9b793": "Emoji Orte-77.png",
-  "#c5c1c5": "Emoji Orte-76.png",
-  "#96938f": "Emoji Orte-78.png",
-  "#adaaa6": "Emoji Orte-79.png",
-  "#8e7e40": "Emoji Orte-80.png",
-  "#757f79": "Emoji Orte-45.png",
-  "#8b8a8d": "Emoji Orte-46.png",
-  "#8e645f": "Emoji Orte-83.png",
-  "#acb1b8": "Emoji Orte-04.png",
-  "#b2847a": "Emoji Orte-84.png",
-  "#8d8283": "Emoji Orte-85.png",
-  "#3b3b3b": "Emoji Orte-87.png",
-  "#6d4242": "Emoji Orte-86.png",
-  "#9e8e8a": "Emoji Orte-91.png",
-  "#b9a2a3": "Emoji Orte-90.png",
-  "#856464": "Emoji Orte-88.png",
-  "#72625b": "Emoji Orte-89.png",
-  "#d7c9c9": "Emoji Orte-92.png",
-  "#c6c1c3": "Emoji Orte-93.png",
-  "#da7c6f": "Emoji Orte-95.png",
-  "#b38a6d": "Emoji Orte-94.png",
-  "#554349": "Emoji Orte-73.png",
-  "#ba99b4": "Emoji Orte-97.png",
-  "#46573f": "Emoji Orte-82.png",
-  "#dba478": "Emoji Orte-98.png",
-  "#3d3b2f": "Emoji Orte-71.png",
-  "#b9b19a": "Emoji Orte-99.png",
-  "#b69454": "Emoji Smiley-01.png",
-  "#b59353": "Emoji Smiley-02.png",
-  "#b79555": "Emoji Smiley-03.png",
-  "#bf984f": "Emoji Smiley-04.png",
-  "#be984f": "Emoji Smiley-05.png",
-  "#be9c50": "Emoji Smiley-57.png",
-  "#787356": "Emoji Orte-81.png",
-  "#bb8d4c": "Emoji Smiley-07.png",
-  "#be974f": "Emoji Smiley-09.png",
-  "#747e90": "Emoji Smiley-100.png",
-  "#c19d50": "Emoji Smiley-10.png",
-  "#a3a2a1": "Emoji Smiley-102.png",
-  "#c5b4a7": "Emoji Smiley-101.png",
-  "#9e8b7c": "Emoji Smiley-103.png",
-  "#96747d": "Emoji Smiley-104.png",
-  "#a6838b": "Emoji Smiley-105.png",
-  "#937e6d": "Emoji Smiley-106.png",
-  "#a5978b": "Emoji Smiley-108.png",
-  "#958170": "Emoji Smiley-107.png",
-  "#c09c50": "Emoji Smiley-11.png",
-  "#bea48f": "Emoji Smiley-110.png",
-  "#b19c89": "Emoji Smiley-109.png",
-  "#c6b6a9": "Emoji Smiley-111.png",
-  "#897b6d": "Emoji Smiley-112.png",
-  "#afa295": "Emoji Smiley-113.png",
-  "#b7aa9e": "Emoji Smiley-114.png",
-  "#b6ada3": "Emoji Smiley-116.png",
-  "#b5aca2": "Emoji Smiley-118.png",
-  "#665b4d": "Emoji Smiley-119.png",
-  "#c2a0ac": "Emoji Orte-96.png",
-  "#b28c57": "Emoji Smiley-12.png",
-  "#c9bdb3": "Emoji Smiley-121.png",
-  "#755b46": "Emoji Smiley-122.png",
-  "#8c7a69": "Emoji Smiley-123.png",
-  "#746f74": "Emoji Smiley-125.png",
-  "#adaaaf": "Emoji Smiley-124.png",
-  "#b89149": "Emoji Smiley-08.png",
-  "#492c2d": "Emoji Smiley-127.png",
-  "#8d6d6f": "Emoji Smiley-128.png",
-  "#b58c4f": "Emoji Smiley-13.png",
-  "#43322e": "Emoji Smiley-129.png",
-  "#683b3b": "Emoji Smiley-130.png",
-  "#7c484c": "Emoji Smiley-131.png",
-  "#885066": "Emoji Smiley-132.png",
-  "#4f3d29": "Emoji Smiley-133.png",
-  "#a76f80": "Emoji Smiley-134.png",
-  "#845961": "Emoji Smiley-135.png",
-  "#a37a7d": "Emoji Smiley-137.png",
-  "#b08b88": "Emoji Smiley-138.png",
-  "#7c5152": "Emoji Smiley-136.png",
-  "#5d3836": "Emoji Smiley-139.png",
-  "#5e3e41": "Emoji Smiley-140.png",
-  "#b18b8b": "Emoji Smiley-142.png",
-  "#695f4d": "Emoji Smiley-120.png",
-  "#2b3339": "Emoji Smiley-144.png",
-  "#8b766f": "Emoji Smiley-141.png",
-  "#6c6a61": "Emoji Smiley-145.png",
-  "#6b6f45": "Emoji Smiley-147.png",
-  "#be989b": "Emoji Smiley-143.png",
-  "#b19664": "Emoji Smiley-146.png",
-  "#a17e7c": "Emoji Smiley-126.png",
-  "#b7955f": "Emoji Smiley-15.png",
-  "#ada79b": "Emoji Smiley-150.png",
-  "#4e1e1d": "Emoji Smiley-151.png",
-  "#635a4c": "Emoji Smiley-152.png",
-  "#606c7f": "Emoji Smiley-153.png",
-  "#8295aa": "Emoji Smiley-154.png",
-  "#6d6d6d": "Emoji Smiley-148.png",
-  "#9a7b8f": "Emoji Smiley-155.png",
-  "#47736d": "Emoji Smiley-156.png",
-  "#73accc": "Emoji Smiley-157.png",
-  "#9c9fb6": "Emoji Smiley-158.png",
-  "#bd9972": "Emoji Smiley-159.png",
-  "#b8985d": "Emoji Smiley-16.png",
-  "#6a4358": "Emoji Smiley-160.png",
-  "#7c7271": "Emoji Smiley-161.png",
-  "#6e5b4d": "Emoji Smiley-162.png",
-  "#cdb492": "Emoji Smiley-163.png",
-  "#5a5c5f": "Emoji Smiley-165.png",
-  "#8a526a": "Emoji Smiley-164.png",
-  "#954d74": "Emoji Smiley-166.png",
-  "#5c3640": "Emoji Smiley-167.png",
-  "#bca669": "Emoji Smiley-169.png",
-  "#c19b90": "Emoji Smiley-168.png",
-  "#b78d50": "Emoji Smiley-14.png",
-  "#9869b6": "Emoji Smiley-171.png",
-  "#a65d5d": "Emoji Smiley-173.png",
-  "#70a765": "Emoji Smiley-172.png",
-  "#a55583": "Emoji Smiley-175.png",
-  "#682f49": "Emoji Smiley-176.png",
-  "#7b4a66": "Emoji Smiley-177.png",
-  "#943b5f": "Emoji Smiley-178.png",
-  "#e2cac8": "Emoji Smiley-181.png",
-  "#392f2c": "Emoji Smiley-149.png",
-  "#7d487e": "Emoji Smiley-180.png",
-  "#a65a6c": "Emoji Smiley-182.png",
-  "#9d4e7a": "Emoji Smiley-179.png",
-  "#303738": "Emoji Smiley-183.png",
-  "#7a95a8": "Emoji Smiley-184.png",
-  "#a6a6a6": "Emoji Smiley-187.png",
-  "#5f6670": "Emoji Smiley-185.png",
-  "#7a6164": "Emoji Smiley-188.png",
-  "#68727f": "Emoji Smiley-186.png",
-  "#c09e51": "Emoji Smiley-20.png",
-  "#bd9a4f": "Emoji Smiley-45.png",
-  "#b79a58": "Emoji Smiley-22.png",
-  "#5d7db6": "Emoji Smiley-170.png",
-  "#b99b5a": "Emoji Smiley-25.png",
-  "#ba9d59": "Emoji Smiley-26.png",
-  "#ab9361": "Emoji Smiley-24.png",
-  "#8d4343": "Emoji Smiley-174.png",
-  "#9a917c": "Emoji Smiley-27.png",
-  "#a99151": "Emoji Smiley-29.png",
-  "#9b7f49": "Emoji Smiley-28.png",
-  "#b8934b": "Emoji Smiley-31.png",
-  "#9e8f72": "Emoji Smiley-32.png",
-  "#9f8f75": "Emoji Smiley-33.png",
-  "#be9b50": "Emoji Smiley-46.png",
-  "#bd9b4f": "Emoji Smiley-18.png",
-  "#ac8e4c": "Emoji Smiley-36.png",
-  "#b9964f": "Emoji Smiley-37.png",
-  "#a28041": "Emoji Smiley-38.png",
-  "#ac8742": "Emoji Smiley-39.png",
-  "#92753b": "Emoji Smiley-41.png",
-  "#b9986f": "Emoji Smiley-40.png",
-  "#b7934d": "Emoji Smiley-43.png",
-  "#b3934c": "Emoji Smiley-42.png",
-  "#b8974f": "Emoji Smiley-44.png",
-  "#bc994f": "Emoji Smiley-47.png",
-  "#542662": "Emoji Smiley-48.png",
-  "#bf9c50": "Emoji Smiley-50.png",
-  "#683b74": "Emoji Smiley-49.png",
-  "#b9995d": "Emoji Smiley-51.png",
-  "#ad8a3e": "Emoji Smiley-52.png",
-  "#c19e50": "Emoji Smiley-53.png",
-  "#be9b4f": "Emoji Smiley-54.png",
-  "#b08d3e": "Emoji Smiley-55.png",
-  "#ab9566": "Emoji Smiley-23.png",
-  "#998775": "Emoji Smiley-59.png",
-  "#9a847b": "Emoji Smiley-60.png",
-  "#737173": "Emoji Smiley-61.png",
-  "#8a8346": "Emoji Smiley-62.png",
-  "#6d6660": "Emoji Smiley-63.png",
-  "#ab9686": "Emoji Smiley-64.png",
-  "#887365": "Emoji Smiley-65.png",
-  "#af6242": "Emoji Smiley-35.png",
-  "#87796d": "Emoji Smiley-67.png",
-  "#8a6051": "Emoji Smiley-68.png",
-  "#86776d": "Emoji Smiley-70.png",
-  "#ab9684": "Emoji Smiley-69.png",
-  "#a99475": "Emoji Smiley-71.png",
-  "#7b7873": "Emoji Smiley-72.png",
-  "#8c763e": "Emoji Smiley-74.png",
-  "#9c8051": "Emoji Smiley-73.png",
-  "#8b753e": "Emoji Smiley-75.png",
-  "#8e703a": "Emoji Smiley-76.png",
-  "#926a2c": "Emoji Smiley-77.png",
-  "#947b3c": "Emoji Smiley-78.png",
-  "#8e783d": "Emoji Smiley-79.png",
-  "#957e42": "Emoji Smiley-56.png",
-  "#857950": "Emoji Smiley-81.png",
-  "#ad9862": "Emoji Smiley-82.png",
-  "#bf9d50": "Emoji Smiley-58.png",
-  "#a7716d": "Emoji Smiley-84.png",
-  "#592c25": "Emoji Smiley-83.png",
-  "#7d6b51": "Emoji Smiley-85.png",
-  "#86755c": "Emoji Smiley-87.png",
-  "#929292": "Emoji Smiley-88.png",
-  "#7d6a4c": "Emoji Smiley-86.png",
-  "#737b7c": "Emoji Smiley-89.png",
-  "#b29768": "Emoji Smiley-91.png",
-  "#6d574a": "Emoji Smiley-66.png",
-  "#342915": "Emoji Smiley-92.png",
-  "#6b6657": "Emoji Smiley-94.png",
-  "#9b8d69": "Emoji Smiley-93.png",
-  "#805445": "Emoji Smiley-95.png",
-  "#704343": "Emoji Smiley-96.png",
-  "#6e899e": "Emoji Smiley-97.png",
-  "#606676": "Emoji Smiley-99.png",
-  "#97aebd": "Emoji Smiley-98.png",
-  "#849bb3": "Emoji Symbols-01.png",
-  "#899eb5": "Emoji Symbols-05.png",
-  "#889eb5": "Emoji Symbols-04.png",
-  "#8ba0b6": "Emoji Symbols-08.png",
-  "#859bb3": "Emoji Symbols-07.png",
-  "#5dbc58": "Emoji Symbols-100.png",
-  "#8b9fb6": "Emoji Symbols-09.png",
-  "#d881ca": "Emoji Symbols-102.png",
-  "#8a9fb6": "Emoji Symbols-10.png",
-  "#eda168": "Emoji Symbols-74.png",
-  "#eda670": "Emoji Symbols-105.png",
-  "#eda26b": "Emoji Symbols-75.png",
-  "#eda063": "Emoji Symbols-103.png",
-  "#cd5e5e": "Emoji Symbols-106.png",
-  "#8e7b44": "Emoji Smiley-80.png",
-  "#d17373": "Emoji Symbols-108.png",
-  "#547685": "Emoji Symbols-110.png",
-  "#94a6b8": "Emoji Symbols-39.png",
-  "#7fa9dc": "Emoji Symbols-111.png",
-  "#265429": "Emoji Symbols-112.png",
-  "#ac71bf": "Emoji Symbols-122.png",
-  "#aa6ebe": "Emoji Symbols-114.png",
-  "#ac70bf": "Emoji Symbols-118.png",
-  "#ab70bf": "Emoji Symbols-117.png",
-  "#ae77c0": "Emoji Symbols-119.png",
-  "#a96dbd": "Emoji Symbols-116.png",
-  "#8c9fb3": "Emoji Symbols-12.png",
-  "#aa6cbe": "Emoji Symbols-120.png",
-  "#6e5e52": "Emoji Smiley-90.png",
-  "#ab70be": "Emoji Symbols-123.png",
-  "#aa6dbe": "Emoji Symbols-113.png",
-  "#cd6162": "Emoji Symbols-109.png",
-  "#ad73c0": "Emoji Symbols-125.png",
-  "#678fb4": "Emoji Symbols-127.png",
-  "#60ba66": "Emoji Symbols-128.png",
-  "#8ea2b8": "Emoji Symbols-42.png",
-  "#ce6464": "Emoji Symbols-107.png",
-  "#989898": "Emoji Symbols-129.png",
-  "#6c6c6c": "Emoji Symbols-131.png",
-  "#ac73be": "Emoji Symbols-126.png",
-  "#676767": "Emoji Symbols-176.png",
-  "#a3a3a3": "Emoji Symbols-133.png",
-  "#656565": "Emoji Symbols-130.png",
-  "#9a6363": "Emoji Symbols-134.png",
-  "#b18080": "Emoji Symbols-135.png",
-  "#9b6868": "Emoji Symbols-136.png",
-  "#e8cfcf": "Emoji Symbols-137.png",
-  "#cbb3b3": "Emoji Symbols-138.png",
-  "#c8c8c8": "Emoji Symbols-140.png",
-  "#92a4b7": "Emoji Symbols-27.png",
-  "#565656": "Emoji Symbols-199.png",
-  "#9c6463": "Emoji Symbols-141.png",
-  "#e6e6e6": "Emoji Symbols-193.png",
-  "#575757": "Emoji Symbols-143.png",
-  "#505050": "Emoji Symbols-146.png",
-  "#5f5f5f": "Emoji Symbols-147.png",
-  "#9a9a9a": "Emoji Symbols-192.png",
-  "#999999": "Emoji Symbols-161.png",
-  "#a96cbd": "Emoji Symbols-121.png",
-  "#90a4b9": "Emoji Symbols-18.png",
-  "#767676": "Emoji Symbols-183.png",
-  "#757575": "Emoji Symbols-175.png",
-  "#e1e1e1": "Emoji Symbols-174.png",
-  "#b27a76": "Emoji Symbols-177.png",
-  "#976c69": "Emoji Symbols-179.png",
-  "#763f40": "Emoji Symbols-181.png",
-  "#818181": "Emoji Symbols-184.png",
-  "#626262": "Emoji Symbols-186.png",
-  "#c9c9c9": "Emoji Symbols-187.png",
-  "#877b5f": "Emoji Symbols-188.png",
-  "#80774b": "Emoji Symbols-189.png",
-  "#545454": "Emoji Symbols-205.png",
-  "#d6d6d6": "Emoji Symbols-191.png",
-  "#c7c7c7": "Emoji Symbols-194.png",
-  "#f3f3f3": "Emoji Symbols-195.png",
-  "#d7c5c5": "Emoji Symbols-196.png",
-  "#7b7b7b": "Emoji Symbols-197.png",
-  "#a5a5a5": "Emoji Symbols-198.png",
-  "#8b9fb3": "Emoji Symbols-20.png",
-  "#577ec3": "Emoji Symbols-202.png",
-  "#c35555": "Emoji Symbols-201.png",
-  "#d2c0c1": "Emoji Symbols-203.png",
-  "#e2e2e2": "Emoji Symbols-204.png",
-  "#4f4f4f": "Emoji Symbols-178.png",
-  "#58699b": "Emoji Symbols-207.png",
-  "#9d7a59": "Emoji Symbols-206.png",
-  "#8b9eb3": "Emoji Symbols-35.png",
-  "#c3c9da": "Emoji Symbols-209.png",
-  "#92a5ba": "Emoji Symbols-37.png",
-  "#93a6bb": "Emoji Symbols-51.png",
-  "#98abc0": "Emoji Symbols-45.png",
-  "#3b1818": "Emoji Symbols-180.png",
-  "#8da1b7": "Emoji Symbols-29.png",
-  "#8fa2b5": "Emoji Symbols-33.png",
-  "#90a3b6": "Emoji Symbols-31.png",
-  "#95a6b9": "Emoji Symbols-38.png",
-  "#8a9eb2": "Emoji Symbols-40.png",
-  "#8a9eb3": "Emoji Symbols-41.png",
-  "#94a9be": "Emoji Symbols-43.png",
-  "#97abc0": "Emoji Symbols-44.png",
-  "#91a5ba": "Emoji Symbols-46.png",
-  "#dbcfc4": "Emoji Symbols-208.png",
-  "#8ba0b7": "Emoji Symbols-48.png",
-  "#99aabd": "Emoji Symbols-52.png",
-  "#6ebd72": "Emoji Symbols-54.png",
-  "#8ea2b7": "Emoji Symbols-53.png",
-  "#dd7473": "Emoji Symbols-56.png",
-  "#ce6160": "Emoji Symbols-57.png",
-  "#ce6a6a": "Emoji Symbols-58.png",
-  "#683032": "Emoji Symbols-59.png",
-  "#eda26c": "Emoji Symbols-62.png",
-  "#eda570": "Emoji Symbols-63.png",
-  "#95a7bc": "Emoji Symbols-64.png",
-  "#dc719e": "Emoji Symbols-60.png",
-  "#eda46f": "Emoji Symbols-61.png",
-  "#5583da": "Emoji Symbols-65.png",
-  "#d56dc4": "Emoji Symbols-66.png",
-  "#eda46c": "Emoji Symbols-67.png",
-  "#638cdc": "Emoji Symbols-68.png",
-  "#537dd2": "Emoji Symbols-69.png",
-  "#8297ae": "Emoji Symbols-70.png",
-  "#5a86da": "Emoji Symbols-76.png",
-  "#5d88da": "Emoji Symbols-72.png",
-  "#668edc": "Emoji Symbols-73.png",
-  "#5c96b1": "Emoji Symbols-77.png",
-  "#557fd2": "Emoji Symbols-78.png",
-  "#668bd4": "Emoji Symbols-79.png",
-  "#5c83d2": "Emoji Symbols-80.png",
-  "#ac8056": "Emoji Symbols-82.png",
-  "#5881d2": "Emoji Symbols-81.png",
-  "#bc605f": "Emoji Symbols-84.png",
-  "#bd6362": "Emoji Symbols-83.png",
-  "#879ab0": "Emoji Symbols-50.png",
-  "#ad84c4": "Emoji Symbols-87.png",
-  "#ab6665": "Emoji Symbols-88.png",
-  "#99655f": "Emoji Symbols-89.png",
-  "#784740": "Emoji Symbols-90.png",
-  "#73433c": "Emoji Symbols-93.png",
-  "#774840": "Emoji Symbols-92.png",
-  "#774841": "Emoji Symbols-94.png",
-  "#73692b": "Emoji Symbols-95.png",
-  "#68bc6d": "Emoji Symbols-97.png",
-  "#b1645c": "Emoji Symbols-96.png",
-  "#68bb6d": "Emoji Symbols-98.png",
-  "#7c65bf": "Emoji Symbols-55.png",
-  "#6ec06a": "Emoji Symbols-99.png",
-  "#c96164": "Emoji Symbols-85.png",
-  "#784942": "Emoji Symbols-91.png",
-  "#c96063": "Emoji Symbols-86.png"
+  "hexToEmojiMap": {
+    "#70664d": "Emoji Natur-02.png",
+    "#8e8689": "Emoji Natur-04.png",
+    "#948a81": "Emoji Natur-01.png",
+    "#ab8a81": "Emoji Natur-05.png",
+    "#777172": "Emoji Natur-06.png",
+    "#6b9672": "Emoji Natur-07.png",
+    "#bca876": "Emoji Natur-08.png",
+    "#7e7573": "Emoji Natur-09.png",
+    "#99825d": "Emoji Natur-10.png",
+    "#4f7c7e": "Emoji Natur-100.png",
+    "#56807a": "Emoji Natur-101.png",
+    "#aa7561": "Emoji Natur-102.png",
+    "#91876c": "Emoji Natur-105.png",
+    "#777d98": "Emoji Natur-103.png",
+    "#755825": "Emoji Natur-106.png",
+    "#9e988f": "Emoji Natur-107.png",
+    "#c5c7cc": "Emoji Natur-108.png",
+    "#857865": "Emoji Natur-109.png",
+    "#b38f97": "Emoji Natur-11.png",
+    "#7d919b": "Emoji Natur-104.png",
+    "#4d4774": "Emoji Natur-110.png",
+    "#536599": "Emoji Natur-113.png",
+    "#8a94a3": "Emoji Natur-111.png",
+    "#6a6a6e": "Emoji Natur-112.png",
+    "#b3c3c8": "Emoji Natur-114.png",
+    "#9ab8be": "Emoji Natur-115.png",
+    "#555f6b": "Emoji Natur-116.png",
+    "#ae8590": "Emoji Natur-12.png",
+    "#7d7169": "Emoji Natur-13.png",
+    "#4e4640": "Emoji Natur-14.png",
+    "#a08b50": "Emoji Natur-03.png",
+    "#5b5340": "Emoji Natur-17.png",
+    "#8f816d": "Emoji Natur-15.png",
+    "#999284": "Emoji Natur-18.png",
+    "#868183": "Emoji Natur-19.png",
+    "#9b9b9b": "Emoji Symbols-168.png",
+    "#80807b": "Emoji Natur-21.png",
+    "#8b918f": "Emoji Natur-22.png",
+    "#c5b076": "Emoji Natur-23.png",
+    "#796738": "Emoji Natur-24.png",
+    "#857c5f": "Emoji Natur-25.png",
+    "#a5958e": "Emoji Natur-26.png",
+    "#346342": "Emoji Natur-27.png",
+    "#5e7257": "Emoji Natur-28.png",
+    "#434528": "Emoji Natur-29.png",
+    "#706951": "Emoji Natur-30.png",
+    "#694e45": "Emoji Natur-32.png",
+    "#30302f": "Emoji Natur-31.png",
+    "#7f6b54": "Emoji Natur-33.png",
+    "#76474c": "Emoji Natur-34.png",
+    "#7d7575": "Emoji Natur-35.png",
+    "#657454": "Emoji Natur-36.png",
+    "#909caa": "Emoji Natur-37.png",
+    "#5a7c7f": "Emoji Natur-38.png",
+    "#918f7f": "Emoji Natur-42.png",
+    "#49515c": "Emoji Natur-40.png",
+    "#7a7876": "Emoji Natur-41.png",
+    "#4b6675": "Emoji Natur-39.png",
+    "#7a7163": "Emoji Natur-16.png",
+    "#9b8873": "Emoji Natur-45.png",
+    "#aaa8a7": "Emoji Natur-46.png",
+    "#87867f": "Emoji Natur-49.png",
+    "#4c654f": "Emoji Natur-47.png",
+    "#837975": "Emoji Natur-50.png",
+    "#484739": "Emoji Natur-48.png",
+    "#82715a": "Emoji Natur-51.png",
+    "#ae9b8e": "Emoji Natur-52.png",
+    "#806852": "Emoji Natur-54.png",
+    "#c5c2c2": "Emoji Natur-53.png",
+    "#495e47": "Emoji Natur-55.png",
+    "#a09a92": "Emoji Natur-56.png",
+    "#5a6b56": "Emoji Natur-57.png",
+    "#7d7160": "Emoji Natur-58.png",
+    "#898483": "Emoji Natur-43.png",
+    "#71604c": "Emoji Natur-59.png",
+    "#958a7b": "Emoji Natur-60.png",
+    "#80766d": "Emoji Natur-61.png",
+    "#5f393c": "Emoji Natur-63.png",
+    "#46372b": "Emoji Natur-64.png",
+    "#514d4a": "Emoji Natur-62.png",
+    "#976f7c": "Emoji Natur-65.png",
+    "#55474b": "Emoji Natur-66.png",
+    "#578f4a": "Emoji Natur-67.png",
+    "#774f46": "Emoji Natur-71.png",
+    "#ad5865": "Emoji Natur-70.png",
+    "#696767": "Emoji Natur-44.png",
+    "#826b4f": "Emoji Natur-73.png",
+    "#3e4c32": "Emoji Natur-74.png",
+    "#5e624e": "Emoji Natur-75.png",
+    "#5d7954": "Emoji Natur-77.png",
+    "#95675c": "Emoji Natur-76.png",
+    "#606649": "Emoji Natur-79.png",
+    "#555f2b": "Emoji Natur-80.png",
+    "#2f3d29": "Emoji Natur-78.png",
+    "#573324": "Emoji Natur-81.png",
+    "#6c7868": "Emoji Natur-82.png",
+    "#475a31": "Emoji Natur-72.png",
+    "#4c5a68": "Emoji Natur-84.png",
+    "#988143": "Emoji Natur-83.png",
+    "#9b7229": "Emoji Natur-85.png",
+    "#c8b969": "Emoji Natur-86.png",
+    "#6a6c76": "Emoji Natur-87.png",
+    "#5b5c64": "Emoji Natur-88.png",
+    "#767369": "Emoji Natur-89.png",
+    "#938c6d": "Emoji Natur-90.png",
+    "#b2a977": "Emoji Natur-91.png",
+    "#ccc17f": "Emoji Natur-92.png",
+    "#b3ac7c": "Emoji Natur-93.png",
+    "#949077": "Emoji Natur-94.png",
+    "#73726b": "Emoji Natur-95.png",
+    "#7e714c": "Emoji Natur-98.png",
+    "#c9c09b": "Emoji Natur-96.png",
+    "#7f7043": "Emoji Natur-69.png",
+    "#845f56": "Emoji Natur-68.png",
+    "#ae747b": "Emoji Objects-02.png",
+    "#5e3e42": "Emoji Objects-03.png",
+    "#85404b": "Emoji Objects-04.png",
+    "#1c1915": "Emoji Objects-05.png",
+    "#5b5458": "Emoji Objects-06.png",
+    "#859899": "Emoji Objects-07.png",
+    "#808f9a": "Emoji Objects-08.png",
+    "#a1a8ae": "Emoji Objects-09.png",
+    "#96a2a8": "Emoji Objects-10.png",
+    "#d0d0d0": "Emoji Objects-100.png",
+    "#b0b0b0": "Emoji Objects-101.png",
+    "#bec0c5": "Emoji Objects-103.png",
+    "#b0b1b4": "Emoji Objects-102.png",
+    "#d1cdce": "Emoji Objects-104.png",
+    "#caced7": "Emoji Objects-105.png",
+    "#95816a": "Emoji Objects-106.png",
+    "#a99c90": "Emoji Objects-107.png",
+    "#9b8888": "Emoji Objects-109.png",
+    "#a47442": "Emoji Objects-11.png",
+    "#b19494": "Emoji Objects-108.png",
+    "#8c9197": "Emoji Objects-111.png",
+    "#969695": "Emoji Objects-110.png",
+    "#777c82": "Emoji Objects-112.png",
+    "#909488": "Emoji Objects-01.png",
+    "#472828": "Emoji Objects-114.png",
+    "#5e856e": "Emoji Natur-99.png",
+    "#313131": "Emoji Objects-116.png",
+    "#474b54": "Emoji Objects-118.png",
+    "#3c4048": "Emoji Objects-119.png",
+    "#888486": "Emoji Objects-12.png",
+    "#4e432c": "Emoji Objects-117.png",
+    "#89484b": "Emoji Objects-120.png",
+    "#6d8450": "Emoji Objects-121.png",
+    "#4e6b86": "Emoji Objects-122.png",
+    "#a47148": "Emoji Objects-123.png",
+    "#a6926b": "Emoji Objects-125.png",
+    "#727171": "Emoji Objects-124.png",
+    "#a59545": "Emoji Objects-126.png",
+    "#5b604e": "Emoji Objects-127.png",
+    "#9ca1aa": "Emoji Objects-128.png",
+    "#645b59": "Emoji Objects-129.png",
+    "#9a746f": "Emoji Objects-13.png",
+    "#a76966": "Emoji Objects-130.png",
+    "#444545": "Emoji Objects-131.png",
+    "#393a3a": "Emoji Objects-132.png",
+    "#ababaa": "Emoji Objects-133.png",
+    "#68716d": "Emoji Objects-135.png",
+    "#987e5e": "Emoji Objects-134.png",
+    "#363636": "Emoji Objects-136.png",
+    "#626262": "Emoji Objects-137.png",
+    "#1c1c1c": "Emoji Objects-138.png",
+    "#3e3c58": "Emoji Objects-139.png",
+    "#5d6343": "Emoji Objects-14.png",
+    "#393939": "Emoji Objects-140.png",
+    "#5e4b43": "Emoji Objects-142.png",
+    "#504a36": "Emoji Objects-143.png",
+    "#655b47": "Emoji Objects-144.png",
+    "#2e1d1d": "Emoji Objects-113.png",
+    "#464646": "Emoji Objects-158.png",
+    "#c9c5c3": "Emoji Objects-148.png",
+    "#afadad": "Emoji Objects-151.png",
+    "#a86a77": "Emoji Objects-152.png",
+    "#614949": "Emoji Objects-153.png",
+    "#d6c3b5": "Emoji Objects-150.png",
+    "#835939": "Emoji Objects-15.png",
+    "#6b361e": "Emoji Objects-154.png",
+    "#a18385": "Emoji Objects-149.png",
+    "#5a5a5a": "Emoji Objects-155.png",
+    "#787272": "Emoji Objects-156.png",
+    "#6f8b33": "Emoji Objects-157.png",
+    "#845829": "Emoji Objects-159.png",
+    "#52483c": "Emoji Objects-16.png",
+    "#504e4e": "Emoji Objects-160.png",
+    "#292b0c": "Emoji Objects-161.png",
+    "#828282": "Emoji Objects-164.png",
+    "#4a4842": "Emoji Objects-165.png",
+    "#725a41": "Emoji Objects-162.png",
+    "#282e22": "Emoji Objects-163.png",
+    "#2b4e43": "Emoji Objects-167.png",
+    "#7b6b52": "Emoji Objects-166.png",
+    "#797a7b": "Emoji Objects-141.png",
+    "#473226": "Emoji Objects-145.png",
+    "#6a5d7a": "Emoji Objects-146.png",
+    "#503b36": "Emoji Objects-17.png",
+    "#3c6159": "Emoji Objects-170.png",
+    "#2e3034": "Emoji Objects-171.png",
+    "#595754": "Emoji Objects-172.png",
+    "#797768": "Emoji Objects-173.png",
+    "#727773": "Emoji Objects-175.png",
+    "#b39e84": "Emoji Objects-176.png",
+    "#a58d6c": "Emoji Objects-177.png",
+    "#a8a8a5": "Emoji Objects-178.png",
+    "#ab9c87": "Emoji Objects-179.png",
+    "#5b4d47": "Emoji Objects-18.png",
+    "#ac9c9e": "Emoji Objects-180.png",
+    "#62593f": "Emoji Objects-174.png",
+    "#969799": "Emoji Objects-181.png",
+    "#543926": "Emoji Objects-182.png",
+    "#b68e6b": "Emoji Objects-183.png",
+    "#905b34": "Emoji Objects-184.png",
+    "#5b4a40": "Emoji Objects-185.png",
+    "#5e422e": "Emoji Objects-186.png",
+    "#7e6c59": "Emoji Objects-187.png",
+    "#916248": "Emoji Objects-189.png",
+    "#a38d87": "Emoji Objects-190.png",
+    "#9f9792": "Emoji Objects-188.png",
+    "#b49498": "Emoji Objects-19.png",
+    "#aa706d": "Emoji Objects-191.png",
+    "#bbaeb5": "Emoji Objects-192.png",
+    "#82837f": "Emoji Objects-193.png",
+    "#866246": "Emoji Objects-194.png",
+    "#919191": "Emoji Objects-195.png",
+    "#706556": "Emoji Objects-196.png",
+    "#5f9192": "Emoji Objects-169.png",
+    "#86837e": "Emoji Objects-168.png",
+    "#5d5653": "Emoji Objects-199.png",
+    "#514f46": "Emoji Objects-200.png",
+    "#b8a17f": "Emoji Objects-201.png",
+    "#7c695c": "Emoji Objects-202.png",
+    "#6c614a": "Emoji Objects-204.png",
+    "#a58b91": "Emoji Objects-206.png",
+    "#aba69e": "Emoji Objects-205.png",
+    "#a29683": "Emoji Objects-203.png",
+    "#aea89e": "Emoji Objects-207.png",
+    "#714e31": "Emoji Objects-209.png",
+    "#857085": "Emoji Objects-21.png",
+    "#6a6b6e": "Emoji Objects-211.png",
+    "#68524e": "Emoji Objects-210.png",
+    "#5b4e43": "Emoji Objects-212.png",
+    "#88632a": "Emoji Objects-213.png",
+    "#7c302d": "Emoji Objects-214.png",
+    "#586d35": "Emoji Objects-215.png",
+    "#814b1f": "Emoji Objects-216.png",
+    "#a0964d": "Emoji Objects-217.png",
+    "#63625d": "Emoji Objects-197.png",
+    "#b1a096": "Emoji Objects-208.png",
+    "#6b3867": "Emoji Objects-219.png",
+    "#564e48": "Emoji Objects-198.png",
+    "#6a6363": "Emoji Objects-20.png",
+    "#79504d": "Emoji Objects-220.png",
+    "#6b3d34": "Emoji Objects-221.png",
+    "#94594c": "Emoji Objects-222.png",
+    "#6b6240": "Emoji Objects-224.png",
+    "#747c3a": "Emoji Objects-225.png",
+    "#797654": "Emoji Objects-223.png",
+    "#604b3c": "Emoji Objects-227.png",
+    "#524351": "Emoji Objects-228.png",
+    "#3e3d1e": "Emoji Objects-226.png",
+    "#696845": "Emoji Objects-230.png",
+    "#7e402a": "Emoji Objects-229.png",
+    "#7a7d83": "Emoji Objects-24.png",
+    "#9d9ea0": "Emoji Objects-25.png",
+    "#b3b6bb": "Emoji Objects-23.png",
+    "#aaa183": "Emoji Objects-27.png",
+    "#9da0a3": "Emoji Objects-29.png",
+    "#a3a4a0": "Emoji Objects-26.png",
+    "#9f9c8d": "Emoji Objects-28.png",
+    "#768fad": "Emoji Objects-30.png",
+    "#939494": "Emoji Objects-31.png",
+    "#98414b": "Emoji Objects-32.png",
+    "#323232": "Emoji Objects-33.png",
+    "#1f1e1f": "Emoji Objects-147.png",
+    "#8c8f8b": "Emoji Objects-34.png",
+    "#a09d90": "Emoji Objects-35.png",
+    "#76766d": "Emoji Objects-36.png",
+    "#6b6056": "Emoji Objects-37.png",
+    "#444444": "Emoji Symbols-182.png",
+    "#656566": "Emoji Objects-40.png",
+    "#474747": "Emoji Objects-41.png",
+    "#897760": "Emoji Objects-43.png",
+    "#86604f": "Emoji Objects-44.png",
+    "#431716": "Emoji Objects-218.png",
+    "#4e4e4e": "Emoji Objects-22.png",
+    "#4a3d38": "Emoji Objects-47.png",
+    "#493c36": "Emoji Objects-48.png",
+    "#663332": "Emoji Objects-49.png",
+    "#999999": "Emoji Symbols-192.png",
+    "#bcb19c": "Emoji Objects-51.png",
+    "#cdc1ac": "Emoji Objects-52.png",
+    "#999288": "Emoji Objects-53.png",
+    "#998160": "Emoji Objects-54.png",
+    "#4c4e4e": "Emoji Objects-63.png",
+    "#b5b1a4": "Emoji Objects-57.png",
+    "#4b3a15": "Emoji Objects-59.png",
+    "#5a4444": "Emoji Objects-42.png",
+    "#61553e": "Emoji Objects-46.png",
+    "#1e1e1c": "Emoji Objects-61.png",
+    "#a6c2a8": "Emoji Objects-62.png",
+    "#b5ac99": "Emoji Objects-60.png",
+    "#50504f": "Emoji Objects-64.png",
+    "#545352": "Emoji Objects-65.png",
+    "#366469": "Emoji Objects-66.png",
+    "#898989": "Emoji Objects-67.png",
+    "#776949": "Emoji Objects-45.png",
+    "#887a60": "Emoji Objects-38.png",
+    "#65625f": "Emoji Objects-72.png",
+    "#af957a": "Emoji Objects-71.png",
+    "#474244": "Emoji Objects-73.png",
+    "#2d2927": "Emoji Objects-70.png",
+    "#6f6f70": "Emoji Objects-74.png",
+    "#4b4b4b": "Emoji Objects-69.png",
+    "#adadae": "Emoji Objects-68.png",
+    "#3e3e3e": "Emoji Objects-75.png",
+    "#7d5631": "Emoji Objects-76.png",
+    "#a7a092": "Emoji Objects-79.png",
+    "#251a1b": "Emoji Objects-77.png",
+    "#aba080": "Emoji Objects-78.png",
+    "#aca89a": "Emoji Objects-80.png",
+    "#b3adad": "Emoji Objects-81.png",
+    "#b0b5a8": "Emoji Objects-82.png",
+    "#b1ad9b": "Emoji Objects-83.png",
+    "#828070": "Emoji Objects-84.png",
+    "#474d55": "Emoji Objects-85.png",
+    "#d1d3e1": "Emoji Objects-86.png",
+    "#4c4e51": "Emoji Objects-58.png",
+    "#97949d": "Emoji Objects-87.png",
+    "#655645": "Emoji Objects-55.png",
+    "#998f8e": "Emoji Objects-90.png",
+    "#9f9393": "Emoji Objects-91.png",
+    "#413728": "Emoji Objects-92.png",
+    "#6e84a3": "Emoji Objects-93.png",
+    "#787b8a": "Emoji Objects-95.png",
+    "#687e9d": "Emoji Objects-94.png",
+    "#737783": "Emoji Objects-96.png",
+    "#b37774": "Emoji Objects-97.png",
+    "#7f674e": "Emoji Objects-98.png",
+    "#b6b0a4": "Emoji Objects-99.png",
+    "#a7a473": "Emoji Orte-03.png",
+    "#70745c": "Emoji Orte-02.png",
+    "#9d968b": "Emoji Orte-05.png",
+    "#aeb3ba": "Emoji Orte-04.png",
+    "#809194": "Emoji Orte-07.png",
+    "#6d797d": "Emoji Orte-08.png",
+    "#a68196": "Emoji Orte-09.png",
+    "#e0e0e0": "Emoji Symbols-174.png",
+    "#968683": "Emoji Orte-10.png",
+    "#bea4c0": "Emoji Orte-100.png",
+    "#c1a4b3": "Emoji Orte-101.png",
+    "#716d6a": "Emoji Orte-12.png",
+    "#9d9ea6": "Emoji Orte-13.png",
+    "#949186": "Emoji Orte-01.png",
+    "#826870": "Emoji Orte-11.png",
+    "#a77d65": "Emoji Orte-16.png",
+    "#aec2c0": "Emoji Orte-17.png",
+    "#b7a4a6": "Emoji Orte-18.png",
+    "#8d927a": "Emoji Orte-19.png",
+    "#b9b1b2": "Emoji Orte-20.png",
+    "#c5c5cf": "Emoji Orte-21.png",
+    "#83a2cf": "Emoji Orte-22.png",
+    "#a4b2be": "Emoji Orte-23.png",
+    "#ab948f": "Emoji Orte-24.png",
+    "#e0a478": "Emoji Orte-25.png",
+    "#687a8d": "Emoji Orte-26.png",
+    "#93b6c2": "Emoji Orte-27.png",
+    "#6d587e": "Emoji Orte-28.png",
+    "#a09899": "Emoji Orte-06.png",
+    "#869eaf": "Emoji Orte-29.png",
+    "#a9b0cb": "Emoji Orte-30.png",
+    "#8ea8a9": "Emoji Orte-31.png",
+    "#bbb6be": "Emoji Orte-32.png",
+    "#9fa3ad": "Emoji Orte-33.png",
+    "#694a38": "Emoji Orte-34.png",
+    "#5c6a79": "Emoji Orte-36.png",
+    "#634c46": "Emoji Orte-38.png",
+    "#2f363b": "Emoji Orte-39.png",
+    "#495059": "Emoji Orte-37.png",
+    "#878079": "Emoji Orte-14.png",
+    "#665f63": "Emoji Orte-41.png",
+    "#745d57": "Emoji Orte-42.png",
+    "#373b3b": "Emoji Orte-43.png",
+    "#4b4d4b": "Emoji Orte-44.png",
+    "#727c76": "Emoji Orte-45.png",
+    "#8c8b8e": "Emoji Orte-46.png",
+    "#858a95": "Emoji Orte-47.png",
+    "#8f92ae": "Emoji Orte-48.png",
+    "#77829a": "Emoji Orte-49.png",
+    "#626767": "Emoji Orte-50.png",
+    "#51566a": "Emoji Orte-51.png",
+    "#6e6d62": "Emoji Orte-52.png",
+    "#727367": "Emoji Orte-53.png",
+    "#d19b6b": "Emoji Orte-15.png",
+    "#606a80": "Emoji Orte-54.png",
+    "#6c7568": "Emoji Orte-56.png",
+    "#5a6f86": "Emoji Orte-57.png",
+    "#466a96": "Emoji Orte-58.png",
+    "#9f7877": "Emoji Orte-59.png",
+    "#ac9e86": "Emoji Orte-35.png",
+    "#9a8963": "Emoji Orte-60.png",
+    "#676844": "Emoji Orte-61.png",
+    "#4f655a": "Emoji Orte-62.png",
+    "#9d814e": "Emoji Orte-63.png",
+    "#c17479": "Emoji Orte-64.png",
+    "#787777": "Emoji Orte-65.png",
+    "#6b7175": "Emoji Orte-66.png",
+    "#6c6f7e": "Emoji Orte-40.png",
+    "#7c6a6c": "Emoji Orte-68.png",
+    "#797b7e": "Emoji Orte-69.png",
+    "#5f6268": "Emoji Orte-70.png",
+    "#3d3b30": "Emoji Orte-71.png",
+    "#645e4a": "Emoji Orte-72.png",
+    "#544248": "Emoji Orte-73.png",
+    "#b1a4b3": "Emoji Orte-75.png",
+    "#797159": "Emoji Orte-74.png",
+    "#c3c0c4": "Emoji Orte-76.png",
+    "#bbb998": "Emoji Orte-77.png",
+    "#979490": "Emoji Orte-78.png",
+    "#aaa7a3": "Emoji Orte-79.png",
+    "#8c7d42": "Emoji Orte-80.png",
+    "#797458": "Emoji Orte-81.png",
+    "#4f5f48": "Emoji Orte-82.png",
+    "#8e6661": "Emoji Orte-83.png",
+    "#b88b81": "Emoji Orte-84.png",
+    "#724848": "Emoji Orte-86.png",
+    "#918789": "Emoji Orte-85.png",
+    "#ae9a83": "Emoji Orte-55.png",
+    "#3f3f3f": "Emoji Orte-87.png",
+    "#dacccc": "Emoji Orte-92.png",
+    "#b9a3a4": "Emoji Orte-90.png",
+    "#cbc6c8": "Emoji Orte-93.png",
+    "#b78f73": "Emoji Orte-94.png",
+    "#dd8275": "Emoji Orte-95.png",
+    "#776861": "Emoji Orte-89.png",
+    "#bd9fb8": "Emoji Orte-97.png",
+    "#dda97d": "Emoji Orte-98.png",
+    "#ba995b": "Emoji Smiley-01.png",
+    "#c3a2ad": "Emoji Orte-96.png",
+    "#b8975a": "Emoji Smiley-02.png",
+    "#bb9a5b": "Emoji Smiley-03.png",
+    "#c29d56": "Emoji Smiley-04.png",
+    "#925f5d": "Emoji Orte-67.png",
+    "#c2a157": "Emoji Smiley-58.png",
+    "#be9253": "Emoji Smiley-07.png",
+    "#b9934d": "Emoji Smiley-08.png",
+    "#c29c56": "Emoji Smiley-09.png",
+    "#c5a257": "Emoji Smiley-10.png",
+    "#c6b6a9": "Emoji Smiley-101.png",
+    "#a2a1a0": "Emoji Smiley-102.png",
+    "#788192": "Emoji Smiley-100.png",
+    "#9a7882": "Emoji Smiley-104.png",
+    "#9b897a": "Emoji Smiley-103.png",
+    "#9e8f8c": "Emoji Orte-91.png",
+    "#968171": "Emoji Smiley-106.png",
+    "#988473": "Emoji Smiley-107.png",
+    "#a99b8f": "Emoji Smiley-108.png",
+    "#c3a157": "Emoji Smiley-11.png",
+    "#af9b88": "Emoji Smiley-109.png",
+    "#bcb69f": "Emoji Orte-99.png",
+    "#bfa590": "Emoji Smiley-110.png",
+    "#8d7f71": "Emoji Smiley-112.png",
+    "#c8b8ac": "Emoji Smiley-111.png",
+    "#b9afa6": "Emoji Smiley-116.png",
+    "#b1a498": "Emoji Smiley-113.png",
+    "#b8ab9f": "Emoji Smiley-114.png",
+    "#b7ada4": "Emoji Smiley-117.png",
+    "#6d6254": "Emoji Smiley-119.png",
+    "#b99561": "Emoji Smiley-12.png",
+    "#706654": "Emoji Smiley-120.png",
+    "#785f4a": "Emoji Smiley-122.png",
+    "#8a6a6a": "Emoji Orte-88.png",
+    "#8c7a6a": "Emoji Smiley-123.png",
+    "#aaa8ac": "Emoji Smiley-124.png",
+    "#ccc0b7": "Emoji Smiley-121.png",
+    "#757075": "Emoji Smiley-125.png",
+    "#a07e7d": "Emoji Smiley-126.png",
+    "#472b2c": "Emoji Smiley-127.png",
+    "#8f7072": "Emoji Smiley-128.png",
+    "#41312d": "Emoji Smiley-129.png",
+    "#bc9459": "Emoji Smiley-13.png",
+    "#653939": "Emoji Smiley-130.png",
+    "#8a5369": "Emoji Smiley-132.png",
+    "#a7858d": "Emoji Smiley-105.png",
+    "#4e3d29": "Emoji Smiley-133.png",
+    "#ac7585": "Emoji Smiley-134.png",
+    "#895f67": "Emoji Smiley-135.png",
+    "#805657": "Emoji Smiley-136.png",
+    "#a37b7e": "Emoji Smiley-137.png",
+    "#ad8986": "Emoji Smiley-138.png",
+    "#5c3735": "Emoji Smiley-139.png",
+    "#5d3e41": "Emoji Smiley-140.png",
+    "#8e7a73": "Emoji Smiley-141.png",
+    "#af8a8b": "Emoji Smiley-142.png",
+    "#bd979a": "Emoji Smiley-143.png",
+    "#2a3137": "Emoji Smiley-144.png",
+    "#727272": "Emoji Smiley-148.png",
+    "#6f724a": "Emoji Smiley-147.png",
+    "#b09665": "Emoji Smiley-146.png",
+    "#413734": "Emoji Smiley-149.png",
+    "#ba9a66": "Emoji Smiley-15.png",
+    "#b1ab9f": "Emoji Smiley-150.png",
+    "#512221": "Emoji Smiley-151.png",
+    "#686052": "Emoji Smiley-152.png",
+    "#636f82": "Emoji Smiley-153.png",
+    "#8597ac": "Emoji Smiley-154.png",
+    "#7a474a": "Emoji Smiley-131.png",
+    "#4d7973": "Emoji Smiley-156.png",
+    "#74accb": "Emoji Smiley-157.png",
+    "#9b9eb4": "Emoji Smiley-158.png",
+    "#bd9972": "Emoji Smiley-159.png",
+    "#ba9c62": "Emoji Smiley-16.png",
+    "#6e485c": "Emoji Smiley-160.png",
+    "#7f7573": "Emoji Smiley-161.png",
+    "#be9659": "Emoji Smiley-14.png",
+    "#715f51": "Emoji Smiley-162.png",
+    "#8a536b": "Emoji Smiley-164.png",
+    "#5e6163": "Emoji Smiley-165.png",
+    "#ceb695": "Emoji Smiley-163.png",
+    "#975278": "Emoji Smiley-166.png",
+    "#5d3942": "Emoji Smiley-167.png",
+    "#c39d92": "Emoji Smiley-168.png",
+    "#727067": "Emoji Smiley-145.png",
+    "#c1a157": "Emoji Smiley-17.png",
+    "#6381b9": "Emoji Smiley-170.png",
+    "#9c6eb9": "Emoji Smiley-171.png",
+    "#75aa6a": "Emoji Smiley-172.png",
+    "#a96262": "Emoji Smiley-173.png",
+    "#8d4545": "Emoji Smiley-174.png",
+    "#a35581": "Emoji Smiley-175.png",
+    "#703852": "Emoji Smiley-176.png",
+    "#7d4d69": "Emoji Smiley-177.png",
+    "#9a4365": "Emoji Smiley-178.png",
+    "#9c507b": "Emoji Smiley-179.png",
+    "#c1a056": "Emoji Smiley-18.png",
+    "#814e83": "Emoji Smiley-180.png",
+    "#a75c6e": "Emoji Smiley-182.png",
+    "#e2cbc9": "Emoji Smiley-181.png",
+    "#2f3536": "Emoji Smiley-183.png",
+    "#9c7e91": "Emoji Smiley-155.png",
+    "#7d98aa": "Emoji Smiley-184.png",
+    "#6b7481": "Emoji Smiley-186.png",
+    "#a7a7a7": "Emoji Smiley-187.png",
+    "#7e6568": "Emoji Smiley-188.png",
+    "#939393": "Emoji Smiley-189.png",
+    "#c4a258": "Emoji Smiley-20.png",
+    "#c1a057": "Emoji Smiley-57.png",
+    "#c09f56": "Emoji Smiley-21.png",
+    "#bb9f5f": "Emoji Smiley-22.png",
+    "#af9a6c": "Emoji Smiley-23.png",
+    "#bda061": "Emoji Smiley-25.png",
+    "#a08550": "Emoji Smiley-28.png",
+    "#9e9681": "Emoji Smiley-27.png",
+    "#bda260": "Emoji Smiley-26.png",
+    "#bfaa6e": "Emoji Smiley-169.png",
+    "#ad9658": "Emoji Smiley-29.png",
+    "#be9a54": "Emoji Smiley-31.png",
+    "#9e8f75": "Emoji Smiley-33.png",
+    "#a39578": "Emoji Smiley-32.png",
+    "#c2a057": "Emoji Smiley-50.png",
+    "#ae9150": "Emoji Smiley-36.png",
+    "#b36949": "Emoji Smiley-35.png",
+    "#bd9b56": "Emoji Smiley-37.png",
+    "#a68649": "Emoji Smiley-38.png",
+    "#be9f77": "Emoji Smiley-40.png",
+    "#b08c4a": "Emoji Smiley-39.png",
+    "#636a73": "Emoji Smiley-185.png",
+    "#b0924e": "Emoji Smiley-42.png",
+    "#ba9854": "Emoji Smiley-43.png",
+    "#bc9b56": "Emoji Smiley-44.png",
+    "#c19f56": "Emoji Smiley-45.png",
+    "#c09e56": "Emoji Smiley-47.png",
+    "#52255f": "Emoji Smiley-48.png",
+    "#b09967": "Emoji Smiley-24.png",
+    "#693d74": "Emoji Smiley-49.png",
+    "#bc9d62": "Emoji Smiley-51.png",
+    "#b29046": "Emoji Smiley-52.png",
+    "#c2a056": "Emoji Smiley-54.png",
+    "#b59246": "Emoji Smiley-55.png",
+    "#978147": "Emoji Smiley-56.png",
+    "#c4a357": "Emoji Smiley-53.png",
+    "#bf9a54": "Emoji Smiley-30.png",
+    "#99847b": "Emoji Smiley-60.png",
+    "#727072": "Emoji Smiley-61.png",
+    "#998876": "Emoji Smiley-59.png",
+    "#706a63": "Emoji Smiley-63.png",
+    "#8e874b": "Emoji Smiley-62.png",
+    "#a99485": "Emoji Smiley-64.png",
+    "#8a7568": "Emoji Smiley-65.png",
+    "#705b4f": "Emoji Smiley-66.png",
+    "#8d6455": "Emoji Smiley-68.png",
+    "#ab9685": "Emoji Smiley-69.png",
+    "#887a6e": "Emoji Smiley-67.png",
+    "#a99476": "Emoji Smiley-71.png",
+    "#977c43": "Emoji Smiley-41.png",
+    "#8c7740": "Emoji Smiley-74.png",
+    "#8b7640": "Emoji Smiley-75.png",
+    "#936c30": "Emoji Smiley-77.png",
+    "#83807b": "Emoji Smiley-72.png",
+    "#9e8356": "Emoji Smiley-73.png",
+    "#88796f": "Emoji Smiley-70.png",
+    "#937b3e": "Emoji Smiley-78.png",
+    "#8f7940": "Emoji Smiley-79.png",
+    "#857951": "Emoji Smiley-81.png",
+    "#8d7b46": "Emoji Smiley-80.png",
+    "#ac7774": "Emoji Smiley-84.png",
+    "#5a2e27": "Emoji Smiley-83.png",
+    "#806f55": "Emoji Smiley-85.png",
+    "#7d6b4d": "Emoji Smiley-86.png",
+    "#897860": "Emoji Smiley-87.png",
+    "#737c7c": "Emoji Smiley-89.png",
+    "#716155": "Emoji Smiley-90.png",
+    "#b59b6d": "Emoji Smiley-91.png",
+    "#392f1b": "Emoji Smiley-92.png",
+    "#a0926d": "Emoji Smiley-93.png",
+    "#6e695a": "Emoji Smiley-94.png",
+    "#738da2": "Emoji Smiley-97.png",
+    "#835849": "Emoji Smiley-95.png",
+    "#794d4d": "Emoji Smiley-96.png",
+    "#98aebd": "Emoji Smiley-98.png",
+    "#646a79": "Emoji Smiley-99.png",
+    "#889eb5": "Emoji Symbols-01.png",
+    "#8da1b8": "Emoji Symbols-03.png",
+    "#8ca1b7": "Emoji Symbols-04.png",
+    "#8da2b8": "Emoji Symbols-05.png",
+    "#8ea3b9": "Emoji Symbols-08.png",
+    "#899fb6": "Emoji Symbols-07.png",
+    "#8e703c": "Emoji Smiley-76.png",
+    "#8ea2b8": "Emoji Symbols-10.png",
+    "#62be5d": "Emoji Symbols-100.png",
+    "#da85cc": "Emoji Symbols-102.png",
+    "#b29e69": "Emoji Smiley-82.png",
+    "#eda771": "Emoji Symbols-105.png",
+    "#eea368": "Emoji Symbols-103.png",
+    "#cf6969": "Emoji Symbols-107.png",
+    "#eea671": "Emoji Symbols-62.png",
+    "#ce6363": "Emoji Symbols-57.png",
+    "#d27777": "Emoji Symbols-108.png",
+    "#cf6666": "Emoji Symbols-109.png",
+    "#98a9bb": "Emoji Symbols-11.png",
+    "#80a9db": "Emoji Symbols-111.png",
+    "#5b7c8b": "Emoji Symbols-110.png",
+    "#305d33": "Emoji Symbols-112.png",
+    "#ad72c0": "Emoji Symbols-114.png",
+    "#ad71c0": "Emoji Symbols-113.png",
+    "#ae74c1": "Emoji Symbols-118.png",
+    "#ac71bf": "Emoji Symbols-116.png",
+    "#b07bc2": "Emoji Symbols-119.png",
+    "#8fa2b6": "Emoji Symbols-12.png",
+    "#ae75c1": "Emoji Symbols-122.png",
+    "#ac70c0": "Emoji Symbols-120.png",
+    "#ac70bf": "Emoji Symbols-121.png",
+    "#9a9a9a": "Emoji Symbols-169.png",
+    "#ae72c1": "Emoji Symbols-124.png",
+    "#ae74c0": "Emoji Symbols-123.png",
+    "#af78c1": "Emoji Symbols-126.png",
+    "#b078c2": "Emoji Symbols-125.png",
+    "#6c93b7": "Emoji Symbols-127.png",
+    "#65bb6a": "Emoji Symbols-128.png",
+    "#9e9e9e": "Emoji Symbols-129.png",
+    "#92a5ba": "Emoji Symbols-13.png",
+    "#707070": "Emoji Symbols-132.png",
+    "#a5a5a5": "Emoji Symbols-133.png",
+    "#eea36b": "Emoji Symbols-101.png",
+    "#b28282": "Emoji Symbols-135.png",
+    "#9d6c6c": "Emoji Symbols-136.png",
+    "#ccb5b5": "Emoji Symbols-138.png",
+    "#e8e8e8": "Emoji Symbols-139.png",
+    "#96a7ba": "Emoji Symbols-14.png",
+    "#cacaca": "Emoji Symbols-140.png",
+    "#a36c6c": "Emoji Symbols-141.png",
+    "#ead3d3": "Emoji Symbols-137.png",
+    "#595959": "Emoji Symbols-143.png",
+    "#585858": "Emoji Symbols-144.png",
+    "#555555": "Emoji Symbols-146.png",
+    "#5d5d5d": "Emoji Symbols-142.png",
+    "#616161": "Emoji Symbols-147.png",
+    "#676767": "Emoji Symbols-145.png",
+    "#6d6d6d": "Emoji Symbols-130.png",
+    "#a16c6c": "Emoji Symbols-134.png",
+    "#93a6bb": "Emoji Symbols-18.png",
+    "#949494": "Emoji Symbols-172.png",
+    "#7a7a7a": "Emoji Symbols-175.png",
+    "#b17b77": "Emoji Symbols-177.png",
+    "#515151": "Emoji Symbols-178.png",
+    "#9a6f6d": "Emoji Symbols-179.png",
+    "#422020": "Emoji Symbols-180.png",
+    "#794243": "Emoji Symbols-181.png",
+    "#7b7b7b": "Emoji Symbols-183.png",
+    "#848484": "Emoji Symbols-184.png",
+    "#2f2f2f": "Emoji Symbols-185.png",
+    "#6c6c6c": "Emoji Symbols-176.png",
+    "#666666": "Emoji Symbols-186.png",
+    "#8b7f64": "Emoji Symbols-188.png",
+    "#c9c9c9": "Emoji Symbols-187.png",
+    "#575757": "Emoji Symbols-205.png",
+    "#d6d6d6": "Emoji Symbols-191.png",
+    "#95a7b9": "Emoji Symbols-27.png",
+    "#7d754a": "Emoji Symbols-189.png",
+    "#d7c5c6": "Emoji Symbols-196.png",
+    "#f4f4f4": "Emoji Symbols-195.png",
+    "#7c7c7c": "Emoji Symbols-197.png",
+    "#a8a8a8": "Emoji Symbols-198.png",
+    "#5b5b5b": "Emoji Symbols-199.png",
+    "#8fa1b5": "Emoji Symbols-20.png",
+    "#c65c5c": "Emoji Symbols-201.png",
+    "#b5b5b5": "Emoji Symbols-200.png",
+    "#5c82c5": "Emoji Symbols-202.png",
+    "#d4c2c3": "Emoji Symbols-203.png",
+    "#e3e3e3": "Emoji Symbols-204.png",
+    "#5f70a0": "Emoji Symbols-207.png",
+    "#a17f60": "Emoji Symbols-206.png",
+    "#c5cbdc": "Emoji Symbols-209.png",
+    "#8ea1b5": "Emoji Symbols-41.png",
+    "#94a7bc": "Emoji Symbols-46.png",
+    "#95a8bc": "Emoji Symbols-37.png",
+    "#96a8ba": "Emoji Symbols-26.png",
+    "#e6e6e6": "Emoji Symbols-193.png",
+    "#9baec2": "Emoji Symbols-28.png",
+    "#91a5ba": "Emoji Symbols-42.png",
+    "#dcd1c6": "Emoji Symbols-208.png",
+    "#93a5b8": "Emoji Symbols-32.png",
+    "#94a6b9": "Emoji Symbols-31.png",
+    "#92a4b7": "Emoji Symbols-47.png",
+    "#cccccc": "Emoji Symbols-194.png",
+    "#97a8ba": "Emoji Symbols-39.png",
+    "#8da1b5": "Emoji Symbols-40.png",
+    "#97a9bb": "Emoji Symbols-38.png",
+    "#98abc0": "Emoji Symbols-43.png",
+    "#9aadc2": "Emoji Symbols-44.png",
+    "#9badc2": "Emoji Symbols-45.png",
+    "#8ea2b9": "Emoji Symbols-48.png",
+    "#91a4b7": "Emoji Symbols-49.png",
+    "#9cadc0": "Emoji Symbols-52.png",
+    "#90a3b9": "Emoji Symbols-53.png",
+    "#889bb1": "Emoji Symbols-50.png",
+    "#72c077": "Emoji Symbols-54.png",
+    "#8069c0": "Emoji Symbols-55.png",
+    "#de7978": "Emoji Symbols-56.png",
+    "#cf6e6e": "Emoji Symbols-58.png",
+    "#6d3637": "Emoji Symbols-59.png",
+    "#eea876": "Emoji Symbols-61.png",
+    "#eea775": "Emoji Symbols-63.png",
+    "#99abbf": "Emoji Symbols-51.png",
+    "#5b88dc": "Emoji Symbols-65.png",
+    "#d773c6": "Emoji Symbols-66.png",
+    "#eea670": "Emoji Symbols-67.png",
+    "#5f89dc": "Emoji Symbols-71.png",
+    "#638cdc": "Emoji Symbols-72.png",
+    "#6a91dd": "Emoji Symbols-73.png",
+    "#eea46c": "Emoji Symbols-74.png",
+    "#557ed2": "Emoji Symbols-69.png",
+    "#eea771": "Emoji Symbols-75.png",
+    "#5d97b1": "Emoji Symbols-77.png",
+    "#5881d2": "Emoji Symbols-78.png",
+    "#688bd4": "Emoji Symbols-79.png",
+    "#5f84d2": "Emoji Symbols-80.png",
+    "#5d84d3": "Emoji Symbols-81.png",
+    "#ae835a": "Emoji Symbols-82.png",
+    "#bf6766": "Emoji Symbols-83.png",
+    "#de77a3": "Emoji Symbols-60.png",
+    "#8699af": "Emoji Symbols-70.png",
+    "#bf6564": "Emoji Symbols-84.png",
+    "#cb6769": "Emoji Symbols-85.png",
+    "#af87c6": "Emoji Symbols-87.png",
+    "#b26e6e": "Emoji Symbols-88.png",
+    "#9b6862": "Emoji Symbols-89.png",
+    "#784942": "Emoji Symbols-90.png",
+    "#794a44": "Emoji Symbols-91.png",
+    "#744640": "Emoji Symbols-93.png",
+    "#794b44": "Emoji Symbols-94.png",
+    "#cb6467": "Emoji Symbols-86.png",
+    "#796f30": "Emoji Symbols-95.png",
+    "#608adc": "Emoji Symbols-76.png",
+    "#b3665e": "Emoji Symbols-96.png",
+    "#73c36e": "Emoji Symbols-99.png",
+    "#6790dd": "Emoji Symbols-68.png",
+    "#6dbd72": "Emoji Symbols-98.png",
+    "#6cbe72": "Emoji Symbols-97.png"
+  },
+  "hexToRGBMap": {
+    "#70664d": {
+      "r": 112,
+      "g": 102,
+      "b": 77
+    },
+    "#8e8689": {
+      "r": 142,
+      "g": 134,
+      "b": 137
+    },
+    "#948a81": {
+      "r": 148,
+      "g": 138,
+      "b": 129
+    },
+    "#ab8a81": {
+      "r": 171,
+      "g": 138,
+      "b": 129
+    },
+    "#777172": {
+      "r": 119,
+      "g": 113,
+      "b": 114
+    },
+    "#6b9672": {
+      "r": 107,
+      "g": 150,
+      "b": 114
+    },
+    "#bca876": {
+      "r": 188,
+      "g": 168,
+      "b": 118
+    },
+    "#7e7573": {
+      "r": 126,
+      "g": 117,
+      "b": 115
+    },
+    "#99825d": {
+      "r": 153,
+      "g": 130,
+      "b": 93
+    },
+    "#4f7c7e": {
+      "r": 79,
+      "g": 124,
+      "b": 126
+    },
+    "#56807a": {
+      "r": 86,
+      "g": 128,
+      "b": 122
+    },
+    "#aa7561": {
+      "r": 170,
+      "g": 117,
+      "b": 97
+    },
+    "#91876c": {
+      "r": 145,
+      "g": 135,
+      "b": 108
+    },
+    "#777d98": {
+      "r": 119,
+      "g": 125,
+      "b": 152
+    },
+    "#755825": {
+      "r": 117,
+      "g": 88,
+      "b": 37
+    },
+    "#9e988f": {
+      "r": 158,
+      "g": 152,
+      "b": 143
+    },
+    "#c5c7cc": {
+      "r": 197,
+      "g": 199,
+      "b": 204
+    },
+    "#857865": {
+      "r": 133,
+      "g": 120,
+      "b": 101
+    },
+    "#b38f97": {
+      "r": 179,
+      "g": 143,
+      "b": 151
+    },
+    "#7d919b": {
+      "r": 125,
+      "g": 145,
+      "b": 155
+    },
+    "#4d4774": {
+      "r": 77,
+      "g": 71,
+      "b": 116
+    },
+    "#536599": {
+      "r": 83,
+      "g": 101,
+      "b": 153
+    },
+    "#8a94a3": {
+      "r": 138,
+      "g": 148,
+      "b": 163
+    },
+    "#6a6a6e": {
+      "r": 106,
+      "g": 106,
+      "b": 110
+    },
+    "#b3c3c8": {
+      "r": 179,
+      "g": 195,
+      "b": 200
+    },
+    "#9ab8be": {
+      "r": 154,
+      "g": 184,
+      "b": 190
+    },
+    "#555f6b": {
+      "r": 85,
+      "g": 95,
+      "b": 107
+    },
+    "#ae8590": {
+      "r": 174,
+      "g": 133,
+      "b": 144
+    },
+    "#7d7169": {
+      "r": 125,
+      "g": 113,
+      "b": 105
+    },
+    "#4e4640": {
+      "r": 78,
+      "g": 70,
+      "b": 64
+    },
+    "#a08b50": {
+      "r": 160,
+      "g": 139,
+      "b": 80
+    },
+    "#5b5340": {
+      "r": 91,
+      "g": 83,
+      "b": 64
+    },
+    "#8f816d": {
+      "r": 143,
+      "g": 129,
+      "b": 109
+    },
+    "#999284": {
+      "r": 153,
+      "g": 146,
+      "b": 132
+    },
+    "#868183": {
+      "r": 134,
+      "g": 129,
+      "b": 131
+    },
+    "#9b9b9b": {
+      "r": 155,
+      "g": 155,
+      "b": 155
+    },
+    "#80807b": {
+      "r": 128,
+      "g": 128,
+      "b": 123
+    },
+    "#8b918f": {
+      "r": 139,
+      "g": 145,
+      "b": 143
+    },
+    "#c5b076": {
+      "r": 197,
+      "g": 176,
+      "b": 118
+    },
+    "#796738": {
+      "r": 121,
+      "g": 103,
+      "b": 56
+    },
+    "#857c5f": {
+      "r": 133,
+      "g": 124,
+      "b": 95
+    },
+    "#a5958e": {
+      "r": 165,
+      "g": 149,
+      "b": 142
+    },
+    "#346342": {
+      "r": 52,
+      "g": 99,
+      "b": 66
+    },
+    "#5e7257": {
+      "r": 94,
+      "g": 114,
+      "b": 87
+    },
+    "#434528": {
+      "r": 67,
+      "g": 69,
+      "b": 40
+    },
+    "#706951": {
+      "r": 112,
+      "g": 105,
+      "b": 81
+    },
+    "#694e45": {
+      "r": 105,
+      "g": 78,
+      "b": 69
+    },
+    "#30302f": {
+      "r": 48,
+      "g": 48,
+      "b": 47
+    },
+    "#7f6b54": {
+      "r": 127,
+      "g": 107,
+      "b": 84
+    },
+    "#76474c": {
+      "r": 118,
+      "g": 71,
+      "b": 76
+    },
+    "#7d7575": {
+      "r": 125,
+      "g": 117,
+      "b": 117
+    },
+    "#657454": {
+      "r": 101,
+      "g": 116,
+      "b": 84
+    },
+    "#909caa": {
+      "r": 144,
+      "g": 156,
+      "b": 170
+    },
+    "#5a7c7f": {
+      "r": 90,
+      "g": 124,
+      "b": 127
+    },
+    "#918f7f": {
+      "r": 145,
+      "g": 143,
+      "b": 127
+    },
+    "#49515c": {
+      "r": 73,
+      "g": 81,
+      "b": 92
+    },
+    "#7a7876": {
+      "r": 122,
+      "g": 120,
+      "b": 118
+    },
+    "#4b6675": {
+      "r": 75,
+      "g": 102,
+      "b": 117
+    },
+    "#7a7163": {
+      "r": 122,
+      "g": 113,
+      "b": 99
+    },
+    "#9b8873": {
+      "r": 155,
+      "g": 136,
+      "b": 115
+    },
+    "#aaa8a7": {
+      "r": 170,
+      "g": 168,
+      "b": 167
+    },
+    "#87867f": {
+      "r": 135,
+      "g": 134,
+      "b": 127
+    },
+    "#4c654f": {
+      "r": 76,
+      "g": 101,
+      "b": 79
+    },
+    "#837975": {
+      "r": 131,
+      "g": 121,
+      "b": 117
+    },
+    "#484739": {
+      "r": 72,
+      "g": 71,
+      "b": 57
+    },
+    "#82715a": {
+      "r": 130,
+      "g": 113,
+      "b": 90
+    },
+    "#ae9b8e": {
+      "r": 174,
+      "g": 155,
+      "b": 142
+    },
+    "#806852": {
+      "r": 128,
+      "g": 104,
+      "b": 82
+    },
+    "#c5c2c2": {
+      "r": 197,
+      "g": 194,
+      "b": 194
+    },
+    "#495e47": {
+      "r": 73,
+      "g": 94,
+      "b": 71
+    },
+    "#a09a92": {
+      "r": 160,
+      "g": 154,
+      "b": 146
+    },
+    "#5a6b56": {
+      "r": 90,
+      "g": 107,
+      "b": 86
+    },
+    "#7d7160": {
+      "r": 125,
+      "g": 113,
+      "b": 96
+    },
+    "#898483": {
+      "r": 137,
+      "g": 132,
+      "b": 131
+    },
+    "#71604c": {
+      "r": 113,
+      "g": 96,
+      "b": 76
+    },
+    "#958a7b": {
+      "r": 149,
+      "g": 138,
+      "b": 123
+    },
+    "#80766d": {
+      "r": 128,
+      "g": 118,
+      "b": 109
+    },
+    "#5f393c": {
+      "r": 95,
+      "g": 57,
+      "b": 60
+    },
+    "#46372b": {
+      "r": 70,
+      "g": 55,
+      "b": 43
+    },
+    "#514d4a": {
+      "r": 81,
+      "g": 77,
+      "b": 74
+    },
+    "#976f7c": {
+      "r": 151,
+      "g": 111,
+      "b": 124
+    },
+    "#55474b": {
+      "r": 85,
+      "g": 71,
+      "b": 75
+    },
+    "#578f4a": {
+      "r": 87,
+      "g": 143,
+      "b": 74
+    },
+    "#774f46": {
+      "r": 119,
+      "g": 79,
+      "b": 70
+    },
+    "#ad5865": {
+      "r": 173,
+      "g": 88,
+      "b": 101
+    },
+    "#696767": {
+      "r": 105,
+      "g": 103,
+      "b": 103
+    },
+    "#826b4f": {
+      "r": 130,
+      "g": 107,
+      "b": 79
+    },
+    "#3e4c32": {
+      "r": 62,
+      "g": 76,
+      "b": 50
+    },
+    "#5e624e": {
+      "r": 94,
+      "g": 98,
+      "b": 78
+    },
+    "#5d7954": {
+      "r": 93,
+      "g": 121,
+      "b": 84
+    },
+    "#95675c": {
+      "r": 149,
+      "g": 103,
+      "b": 92
+    },
+    "#606649": {
+      "r": 96,
+      "g": 102,
+      "b": 73
+    },
+    "#555f2b": {
+      "r": 85,
+      "g": 95,
+      "b": 43
+    },
+    "#2f3d29": {
+      "r": 47,
+      "g": 61,
+      "b": 41
+    },
+    "#573324": {
+      "r": 87,
+      "g": 51,
+      "b": 36
+    },
+    "#6c7868": {
+      "r": 108,
+      "g": 120,
+      "b": 104
+    },
+    "#475a31": {
+      "r": 71,
+      "g": 90,
+      "b": 49
+    },
+    "#4c5a68": {
+      "r": 76,
+      "g": 90,
+      "b": 104
+    },
+    "#988143": {
+      "r": 152,
+      "g": 129,
+      "b": 67
+    },
+    "#9b7229": {
+      "r": 155,
+      "g": 114,
+      "b": 41
+    },
+    "#c8b969": {
+      "r": 200,
+      "g": 185,
+      "b": 105
+    },
+    "#6a6c76": {
+      "r": 106,
+      "g": 108,
+      "b": 118
+    },
+    "#5b5c64": {
+      "r": 91,
+      "g": 92,
+      "b": 100
+    },
+    "#767369": {
+      "r": 118,
+      "g": 115,
+      "b": 105
+    },
+    "#938c6d": {
+      "r": 147,
+      "g": 140,
+      "b": 109
+    },
+    "#b2a977": {
+      "r": 178,
+      "g": 169,
+      "b": 119
+    },
+    "#ccc17f": {
+      "r": 204,
+      "g": 193,
+      "b": 127
+    },
+    "#b3ac7c": {
+      "r": 179,
+      "g": 172,
+      "b": 124
+    },
+    "#949077": {
+      "r": 148,
+      "g": 144,
+      "b": 119
+    },
+    "#73726b": {
+      "r": 115,
+      "g": 114,
+      "b": 107
+    },
+    "#7e714c": {
+      "r": 126,
+      "g": 113,
+      "b": 76
+    },
+    "#c9c09b": {
+      "r": 201,
+      "g": 192,
+      "b": 155
+    },
+    "#7f7043": {
+      "r": 127,
+      "g": 112,
+      "b": 67
+    },
+    "#845f56": {
+      "r": 132,
+      "g": 95,
+      "b": 86
+    },
+    "#ae747b": {
+      "r": 174,
+      "g": 116,
+      "b": 123
+    },
+    "#5e3e42": {
+      "r": 94,
+      "g": 62,
+      "b": 66
+    },
+    "#85404b": {
+      "r": 133,
+      "g": 64,
+      "b": 75
+    },
+    "#1c1915": {
+      "r": 28,
+      "g": 25,
+      "b": 21
+    },
+    "#5b5458": {
+      "r": 91,
+      "g": 84,
+      "b": 88
+    },
+    "#859899": {
+      "r": 133,
+      "g": 152,
+      "b": 153
+    },
+    "#808f9a": {
+      "r": 128,
+      "g": 143,
+      "b": 154
+    },
+    "#a1a8ae": {
+      "r": 161,
+      "g": 168,
+      "b": 174
+    },
+    "#96a2a8": {
+      "r": 150,
+      "g": 162,
+      "b": 168
+    },
+    "#d0d0d0": {
+      "r": 208,
+      "g": 208,
+      "b": 208
+    },
+    "#b0b0b0": {
+      "r": 176,
+      "g": 176,
+      "b": 176
+    },
+    "#bec0c5": {
+      "r": 190,
+      "g": 192,
+      "b": 197
+    },
+    "#b0b1b4": {
+      "r": 176,
+      "g": 177,
+      "b": 180
+    },
+    "#d1cdce": {
+      "r": 209,
+      "g": 205,
+      "b": 206
+    },
+    "#caced7": {
+      "r": 202,
+      "g": 206,
+      "b": 215
+    },
+    "#95816a": {
+      "r": 149,
+      "g": 129,
+      "b": 106
+    },
+    "#a99c90": {
+      "r": 169,
+      "g": 156,
+      "b": 144
+    },
+    "#9b8888": {
+      "r": 155,
+      "g": 136,
+      "b": 136
+    },
+    "#a47442": {
+      "r": 164,
+      "g": 116,
+      "b": 66
+    },
+    "#b19494": {
+      "r": 177,
+      "g": 148,
+      "b": 148
+    },
+    "#8c9197": {
+      "r": 140,
+      "g": 145,
+      "b": 151
+    },
+    "#969695": {
+      "r": 150,
+      "g": 150,
+      "b": 149
+    },
+    "#777c82": {
+      "r": 119,
+      "g": 124,
+      "b": 130
+    },
+    "#909488": {
+      "r": 144,
+      "g": 148,
+      "b": 136
+    },
+    "#472828": {
+      "r": 71,
+      "g": 40,
+      "b": 40
+    },
+    "#5e856e": {
+      "r": 94,
+      "g": 133,
+      "b": 110
+    },
+    "#313131": {
+      "r": 49,
+      "g": 49,
+      "b": 49
+    },
+    "#474b54": {
+      "r": 71,
+      "g": 75,
+      "b": 84
+    },
+    "#3c4048": {
+      "r": 60,
+      "g": 64,
+      "b": 72
+    },
+    "#888486": {
+      "r": 136,
+      "g": 132,
+      "b": 134
+    },
+    "#4e432c": {
+      "r": 78,
+      "g": 67,
+      "b": 44
+    },
+    "#89484b": {
+      "r": 137,
+      "g": 72,
+      "b": 75
+    },
+    "#6d8450": {
+      "r": 109,
+      "g": 132,
+      "b": 80
+    },
+    "#4e6b86": {
+      "r": 78,
+      "g": 107,
+      "b": 134
+    },
+    "#a47148": {
+      "r": 164,
+      "g": 113,
+      "b": 72
+    },
+    "#a6926b": {
+      "r": 166,
+      "g": 146,
+      "b": 107
+    },
+    "#727171": {
+      "r": 114,
+      "g": 113,
+      "b": 113
+    },
+    "#a59545": {
+      "r": 165,
+      "g": 149,
+      "b": 69
+    },
+    "#5b604e": {
+      "r": 91,
+      "g": 96,
+      "b": 78
+    },
+    "#9ca1aa": {
+      "r": 156,
+      "g": 161,
+      "b": 170
+    },
+    "#645b59": {
+      "r": 100,
+      "g": 91,
+      "b": 89
+    },
+    "#9a746f": {
+      "r": 154,
+      "g": 116,
+      "b": 111
+    },
+    "#a76966": {
+      "r": 167,
+      "g": 105,
+      "b": 102
+    },
+    "#444545": {
+      "r": 68,
+      "g": 69,
+      "b": 69
+    },
+    "#393a3a": {
+      "r": 57,
+      "g": 58,
+      "b": 58
+    },
+    "#ababaa": {
+      "r": 171,
+      "g": 171,
+      "b": 170
+    },
+    "#68716d": {
+      "r": 104,
+      "g": 113,
+      "b": 109
+    },
+    "#987e5e": {
+      "r": 152,
+      "g": 126,
+      "b": 94
+    },
+    "#363636": {
+      "r": 54,
+      "g": 54,
+      "b": 54
+    },
+    "#626262": {
+      "r": 98,
+      "g": 98,
+      "b": 98
+    },
+    "#1c1c1c": {
+      "r": 28,
+      "g": 28,
+      "b": 28
+    },
+    "#3e3c58": {
+      "r": 62,
+      "g": 60,
+      "b": 88
+    },
+    "#5d6343": {
+      "r": 93,
+      "g": 99,
+      "b": 67
+    },
+    "#393939": {
+      "r": 57,
+      "g": 57,
+      "b": 57
+    },
+    "#5e4b43": {
+      "r": 94,
+      "g": 75,
+      "b": 67
+    },
+    "#504a36": {
+      "r": 80,
+      "g": 74,
+      "b": 54
+    },
+    "#655b47": {
+      "r": 101,
+      "g": 91,
+      "b": 71
+    },
+    "#2e1d1d": {
+      "r": 46,
+      "g": 29,
+      "b": 29
+    },
+    "#464646": {
+      "r": 70,
+      "g": 70,
+      "b": 70
+    },
+    "#c9c5c3": {
+      "r": 201,
+      "g": 197,
+      "b": 195
+    },
+    "#afadad": {
+      "r": 175,
+      "g": 173,
+      "b": 173
+    },
+    "#a86a77": {
+      "r": 168,
+      "g": 106,
+      "b": 119
+    },
+    "#614949": {
+      "r": 97,
+      "g": 73,
+      "b": 73
+    },
+    "#d6c3b5": {
+      "r": 214,
+      "g": 195,
+      "b": 181
+    },
+    "#835939": {
+      "r": 131,
+      "g": 89,
+      "b": 57
+    },
+    "#6b361e": {
+      "r": 107,
+      "g": 54,
+      "b": 30
+    },
+    "#a18385": {
+      "r": 161,
+      "g": 131,
+      "b": 133
+    },
+    "#5a5a5a": {
+      "r": 90,
+      "g": 90,
+      "b": 90
+    },
+    "#787272": {
+      "r": 120,
+      "g": 114,
+      "b": 114
+    },
+    "#6f8b33": {
+      "r": 111,
+      "g": 139,
+      "b": 51
+    },
+    "#845829": {
+      "r": 132,
+      "g": 88,
+      "b": 41
+    },
+    "#52483c": {
+      "r": 82,
+      "g": 72,
+      "b": 60
+    },
+    "#504e4e": {
+      "r": 80,
+      "g": 78,
+      "b": 78
+    },
+    "#292b0c": {
+      "r": 41,
+      "g": 43,
+      "b": 12
+    },
+    "#828282": {
+      "r": 130,
+      "g": 130,
+      "b": 130
+    },
+    "#4a4842": {
+      "r": 74,
+      "g": 72,
+      "b": 66
+    },
+    "#725a41": {
+      "r": 114,
+      "g": 90,
+      "b": 65
+    },
+    "#282e22": {
+      "r": 40,
+      "g": 46,
+      "b": 34
+    },
+    "#2b4e43": {
+      "r": 43,
+      "g": 78,
+      "b": 67
+    },
+    "#7b6b52": {
+      "r": 123,
+      "g": 107,
+      "b": 82
+    },
+    "#797a7b": {
+      "r": 121,
+      "g": 122,
+      "b": 123
+    },
+    "#473226": {
+      "r": 71,
+      "g": 50,
+      "b": 38
+    },
+    "#6a5d7a": {
+      "r": 106,
+      "g": 93,
+      "b": 122
+    },
+    "#503b36": {
+      "r": 80,
+      "g": 59,
+      "b": 54
+    },
+    "#3c6159": {
+      "r": 60,
+      "g": 97,
+      "b": 89
+    },
+    "#2e3034": {
+      "r": 46,
+      "g": 48,
+      "b": 52
+    },
+    "#595754": {
+      "r": 89,
+      "g": 87,
+      "b": 84
+    },
+    "#797768": {
+      "r": 121,
+      "g": 119,
+      "b": 104
+    },
+    "#727773": {
+      "r": 114,
+      "g": 119,
+      "b": 115
+    },
+    "#b39e84": {
+      "r": 179,
+      "g": 158,
+      "b": 132
+    },
+    "#a58d6c": {
+      "r": 165,
+      "g": 141,
+      "b": 108
+    },
+    "#a8a8a5": {
+      "r": 168,
+      "g": 168,
+      "b": 165
+    },
+    "#ab9c87": {
+      "r": 171,
+      "g": 156,
+      "b": 135
+    },
+    "#5b4d47": {
+      "r": 91,
+      "g": 77,
+      "b": 71
+    },
+    "#ac9c9e": {
+      "r": 172,
+      "g": 156,
+      "b": 158
+    },
+    "#62593f": {
+      "r": 98,
+      "g": 89,
+      "b": 63
+    },
+    "#969799": {
+      "r": 150,
+      "g": 151,
+      "b": 153
+    },
+    "#543926": {
+      "r": 84,
+      "g": 57,
+      "b": 38
+    },
+    "#b68e6b": {
+      "r": 182,
+      "g": 142,
+      "b": 107
+    },
+    "#905b34": {
+      "r": 144,
+      "g": 91,
+      "b": 52
+    },
+    "#5b4a40": {
+      "r": 91,
+      "g": 74,
+      "b": 64
+    },
+    "#5e422e": {
+      "r": 94,
+      "g": 66,
+      "b": 46
+    },
+    "#7e6c59": {
+      "r": 126,
+      "g": 108,
+      "b": 89
+    },
+    "#916248": {
+      "r": 145,
+      "g": 98,
+      "b": 72
+    },
+    "#a38d87": {
+      "r": 163,
+      "g": 141,
+      "b": 135
+    },
+    "#9f9792": {
+      "r": 159,
+      "g": 151,
+      "b": 146
+    },
+    "#b49498": {
+      "r": 180,
+      "g": 148,
+      "b": 152
+    },
+    "#aa706d": {
+      "r": 170,
+      "g": 112,
+      "b": 109
+    },
+    "#bbaeb5": {
+      "r": 187,
+      "g": 174,
+      "b": 181
+    },
+    "#82837f": {
+      "r": 130,
+      "g": 131,
+      "b": 127
+    },
+    "#866246": {
+      "r": 134,
+      "g": 98,
+      "b": 70
+    },
+    "#919191": {
+      "r": 145,
+      "g": 145,
+      "b": 145
+    },
+    "#706556": {
+      "r": 112,
+      "g": 101,
+      "b": 86
+    },
+    "#5f9192": {
+      "r": 95,
+      "g": 145,
+      "b": 146
+    },
+    "#86837e": {
+      "r": 134,
+      "g": 131,
+      "b": 126
+    },
+    "#5d5653": {
+      "r": 93,
+      "g": 86,
+      "b": 83
+    },
+    "#514f46": {
+      "r": 81,
+      "g": 79,
+      "b": 70
+    },
+    "#b8a17f": {
+      "r": 184,
+      "g": 161,
+      "b": 127
+    },
+    "#7c695c": {
+      "r": 124,
+      "g": 105,
+      "b": 92
+    },
+    "#6c614a": {
+      "r": 108,
+      "g": 97,
+      "b": 74
+    },
+    "#a58b91": {
+      "r": 165,
+      "g": 139,
+      "b": 145
+    },
+    "#aba69e": {
+      "r": 171,
+      "g": 166,
+      "b": 158
+    },
+    "#a29683": {
+      "r": 162,
+      "g": 150,
+      "b": 131
+    },
+    "#aea89e": {
+      "r": 174,
+      "g": 168,
+      "b": 158
+    },
+    "#714e31": {
+      "r": 113,
+      "g": 78,
+      "b": 49
+    },
+    "#857085": {
+      "r": 133,
+      "g": 112,
+      "b": 133
+    },
+    "#6a6b6e": {
+      "r": 106,
+      "g": 107,
+      "b": 110
+    },
+    "#68524e": {
+      "r": 104,
+      "g": 82,
+      "b": 78
+    },
+    "#5b4e43": {
+      "r": 91,
+      "g": 78,
+      "b": 67
+    },
+    "#88632a": {
+      "r": 136,
+      "g": 99,
+      "b": 42
+    },
+    "#7c302d": {
+      "r": 124,
+      "g": 48,
+      "b": 45
+    },
+    "#586d35": {
+      "r": 88,
+      "g": 109,
+      "b": 53
+    },
+    "#814b1f": {
+      "r": 129,
+      "g": 75,
+      "b": 31
+    },
+    "#a0964d": {
+      "r": 160,
+      "g": 150,
+      "b": 77
+    },
+    "#63625d": {
+      "r": 99,
+      "g": 98,
+      "b": 93
+    },
+    "#b1a096": {
+      "r": 177,
+      "g": 160,
+      "b": 150
+    },
+    "#6b3867": {
+      "r": 107,
+      "g": 56,
+      "b": 103
+    },
+    "#564e48": {
+      "r": 86,
+      "g": 78,
+      "b": 72
+    },
+    "#6a6363": {
+      "r": 106,
+      "g": 99,
+      "b": 99
+    },
+    "#79504d": {
+      "r": 121,
+      "g": 80,
+      "b": 77
+    },
+    "#6b3d34": {
+      "r": 107,
+      "g": 61,
+      "b": 52
+    },
+    "#94594c": {
+      "r": 148,
+      "g": 89,
+      "b": 76
+    },
+    "#6b6240": {
+      "r": 107,
+      "g": 98,
+      "b": 64
+    },
+    "#747c3a": {
+      "r": 116,
+      "g": 124,
+      "b": 58
+    },
+    "#797654": {
+      "r": 121,
+      "g": 118,
+      "b": 84
+    },
+    "#604b3c": {
+      "r": 96,
+      "g": 75,
+      "b": 60
+    },
+    "#524351": {
+      "r": 82,
+      "g": 67,
+      "b": 81
+    },
+    "#3e3d1e": {
+      "r": 62,
+      "g": 61,
+      "b": 30
+    },
+    "#696845": {
+      "r": 105,
+      "g": 104,
+      "b": 69
+    },
+    "#7e402a": {
+      "r": 126,
+      "g": 64,
+      "b": 42
+    },
+    "#7a7d83": {
+      "r": 122,
+      "g": 125,
+      "b": 131
+    },
+    "#9d9ea0": {
+      "r": 157,
+      "g": 158,
+      "b": 160
+    },
+    "#b3b6bb": {
+      "r": 179,
+      "g": 182,
+      "b": 187
+    },
+    "#aaa183": {
+      "r": 170,
+      "g": 161,
+      "b": 131
+    },
+    "#9da0a3": {
+      "r": 157,
+      "g": 160,
+      "b": 163
+    },
+    "#a3a4a0": {
+      "r": 163,
+      "g": 164,
+      "b": 160
+    },
+    "#9f9c8d": {
+      "r": 159,
+      "g": 156,
+      "b": 141
+    },
+    "#768fad": {
+      "r": 118,
+      "g": 143,
+      "b": 173
+    },
+    "#939494": {
+      "r": 147,
+      "g": 148,
+      "b": 148
+    },
+    "#98414b": {
+      "r": 152,
+      "g": 65,
+      "b": 75
+    },
+    "#323232": {
+      "r": 50,
+      "g": 50,
+      "b": 50
+    },
+    "#1f1e1f": {
+      "r": 31,
+      "g": 30,
+      "b": 31
+    },
+    "#8c8f8b": {
+      "r": 140,
+      "g": 143,
+      "b": 139
+    },
+    "#a09d90": {
+      "r": 160,
+      "g": 157,
+      "b": 144
+    },
+    "#76766d": {
+      "r": 118,
+      "g": 118,
+      "b": 109
+    },
+    "#6b6056": {
+      "r": 107,
+      "g": 96,
+      "b": 86
+    },
+    "#444444": {
+      "r": 68,
+      "g": 68,
+      "b": 68
+    },
+    "#656566": {
+      "r": 101,
+      "g": 101,
+      "b": 102
+    },
+    "#474747": {
+      "r": 71,
+      "g": 71,
+      "b": 71
+    },
+    "#897760": {
+      "r": 137,
+      "g": 119,
+      "b": 96
+    },
+    "#86604f": {
+      "r": 134,
+      "g": 96,
+      "b": 79
+    },
+    "#431716": {
+      "r": 67,
+      "g": 23,
+      "b": 22
+    },
+    "#4e4e4e": {
+      "r": 78,
+      "g": 78,
+      "b": 78
+    },
+    "#4a3d38": {
+      "r": 74,
+      "g": 61,
+      "b": 56
+    },
+    "#493c36": {
+      "r": 73,
+      "g": 60,
+      "b": 54
+    },
+    "#663332": {
+      "r": 102,
+      "g": 51,
+      "b": 50
+    },
+    "#999999": {
+      "r": 153,
+      "g": 153,
+      "b": 153
+    },
+    "#bcb19c": {
+      "r": 188,
+      "g": 177,
+      "b": 156
+    },
+    "#cdc1ac": {
+      "r": 205,
+      "g": 193,
+      "b": 172
+    },
+    "#999288": {
+      "r": 153,
+      "g": 146,
+      "b": 136
+    },
+    "#998160": {
+      "r": 153,
+      "g": 129,
+      "b": 96
+    },
+    "#4c4e4e": {
+      "r": 76,
+      "g": 78,
+      "b": 78
+    },
+    "#b5b1a4": {
+      "r": 181,
+      "g": 177,
+      "b": 164
+    },
+    "#4b3a15": {
+      "r": 75,
+      "g": 58,
+      "b": 21
+    },
+    "#5a4444": {
+      "r": 90,
+      "g": 68,
+      "b": 68
+    },
+    "#61553e": {
+      "r": 97,
+      "g": 85,
+      "b": 62
+    },
+    "#1e1e1c": {
+      "r": 30,
+      "g": 30,
+      "b": 28
+    },
+    "#a6c2a8": {
+      "r": 166,
+      "g": 194,
+      "b": 168
+    },
+    "#b5ac99": {
+      "r": 181,
+      "g": 172,
+      "b": 153
+    },
+    "#50504f": {
+      "r": 80,
+      "g": 80,
+      "b": 79
+    },
+    "#545352": {
+      "r": 84,
+      "g": 83,
+      "b": 82
+    },
+    "#366469": {
+      "r": 54,
+      "g": 100,
+      "b": 105
+    },
+    "#898989": {
+      "r": 137,
+      "g": 137,
+      "b": 137
+    },
+    "#776949": {
+      "r": 119,
+      "g": 105,
+      "b": 73
+    },
+    "#887a60": {
+      "r": 136,
+      "g": 122,
+      "b": 96
+    },
+    "#65625f": {
+      "r": 101,
+      "g": 98,
+      "b": 95
+    },
+    "#af957a": {
+      "r": 175,
+      "g": 149,
+      "b": 122
+    },
+    "#474244": {
+      "r": 71,
+      "g": 66,
+      "b": 68
+    },
+    "#2d2927": {
+      "r": 45,
+      "g": 41,
+      "b": 39
+    },
+    "#6f6f70": {
+      "r": 111,
+      "g": 111,
+      "b": 112
+    },
+    "#4b4b4b": {
+      "r": 75,
+      "g": 75,
+      "b": 75
+    },
+    "#adadae": {
+      "r": 173,
+      "g": 173,
+      "b": 174
+    },
+    "#3e3e3e": {
+      "r": 62,
+      "g": 62,
+      "b": 62
+    },
+    "#7d5631": {
+      "r": 125,
+      "g": 86,
+      "b": 49
+    },
+    "#a7a092": {
+      "r": 167,
+      "g": 160,
+      "b": 146
+    },
+    "#251a1b": {
+      "r": 37,
+      "g": 26,
+      "b": 27
+    },
+    "#aba080": {
+      "r": 171,
+      "g": 160,
+      "b": 128
+    },
+    "#aca89a": {
+      "r": 172,
+      "g": 168,
+      "b": 154
+    },
+    "#b3adad": {
+      "r": 179,
+      "g": 173,
+      "b": 173
+    },
+    "#b0b5a8": {
+      "r": 176,
+      "g": 181,
+      "b": 168
+    },
+    "#b1ad9b": {
+      "r": 177,
+      "g": 173,
+      "b": 155
+    },
+    "#828070": {
+      "r": 130,
+      "g": 128,
+      "b": 112
+    },
+    "#474d55": {
+      "r": 71,
+      "g": 77,
+      "b": 85
+    },
+    "#d1d3e1": {
+      "r": 209,
+      "g": 211,
+      "b": 225
+    },
+    "#4c4e51": {
+      "r": 76,
+      "g": 78,
+      "b": 81
+    },
+    "#97949d": {
+      "r": 151,
+      "g": 148,
+      "b": 157
+    },
+    "#655645": {
+      "r": 101,
+      "g": 86,
+      "b": 69
+    },
+    "#998f8e": {
+      "r": 153,
+      "g": 143,
+      "b": 142
+    },
+    "#9f9393": {
+      "r": 159,
+      "g": 147,
+      "b": 147
+    },
+    "#413728": {
+      "r": 65,
+      "g": 55,
+      "b": 40
+    },
+    "#6e84a3": {
+      "r": 110,
+      "g": 132,
+      "b": 163
+    },
+    "#787b8a": {
+      "r": 120,
+      "g": 123,
+      "b": 138
+    },
+    "#687e9d": {
+      "r": 104,
+      "g": 126,
+      "b": 157
+    },
+    "#737783": {
+      "r": 115,
+      "g": 119,
+      "b": 131
+    },
+    "#b37774": {
+      "r": 179,
+      "g": 119,
+      "b": 116
+    },
+    "#7f674e": {
+      "r": 127,
+      "g": 103,
+      "b": 78
+    },
+    "#b6b0a4": {
+      "r": 182,
+      "g": 176,
+      "b": 164
+    },
+    "#a7a473": {
+      "r": 167,
+      "g": 164,
+      "b": 115
+    },
+    "#70745c": {
+      "r": 112,
+      "g": 116,
+      "b": 92
+    },
+    "#9d968b": {
+      "r": 157,
+      "g": 150,
+      "b": 139
+    },
+    "#aeb3ba": {
+      "r": 174,
+      "g": 179,
+      "b": 186
+    },
+    "#809194": {
+      "r": 128,
+      "g": 145,
+      "b": 148
+    },
+    "#6d797d": {
+      "r": 109,
+      "g": 121,
+      "b": 125
+    },
+    "#a68196": {
+      "r": 166,
+      "g": 129,
+      "b": 150
+    },
+    "#e0e0e0": {
+      "r": 224,
+      "g": 224,
+      "b": 224
+    },
+    "#968683": {
+      "r": 150,
+      "g": 134,
+      "b": 131
+    },
+    "#bea4c0": {
+      "r": 190,
+      "g": 164,
+      "b": 192
+    },
+    "#c1a4b3": {
+      "r": 193,
+      "g": 164,
+      "b": 179
+    },
+    "#716d6a": {
+      "r": 113,
+      "g": 109,
+      "b": 106
+    },
+    "#9d9ea6": {
+      "r": 157,
+      "g": 158,
+      "b": 166
+    },
+    "#949186": {
+      "r": 148,
+      "g": 145,
+      "b": 134
+    },
+    "#826870": {
+      "r": 130,
+      "g": 104,
+      "b": 112
+    },
+    "#a77d65": {
+      "r": 167,
+      "g": 125,
+      "b": 101
+    },
+    "#aec2c0": {
+      "r": 174,
+      "g": 194,
+      "b": 192
+    },
+    "#b7a4a6": {
+      "r": 183,
+      "g": 164,
+      "b": 166
+    },
+    "#8d927a": {
+      "r": 141,
+      "g": 146,
+      "b": 122
+    },
+    "#b9b1b2": {
+      "r": 185,
+      "g": 177,
+      "b": 178
+    },
+    "#c5c5cf": {
+      "r": 197,
+      "g": 197,
+      "b": 207
+    },
+    "#83a2cf": {
+      "r": 131,
+      "g": 162,
+      "b": 207
+    },
+    "#a4b2be": {
+      "r": 164,
+      "g": 178,
+      "b": 190
+    },
+    "#ab948f": {
+      "r": 171,
+      "g": 148,
+      "b": 143
+    },
+    "#e0a478": {
+      "r": 224,
+      "g": 164,
+      "b": 120
+    },
+    "#687a8d": {
+      "r": 104,
+      "g": 122,
+      "b": 141
+    },
+    "#93b6c2": {
+      "r": 147,
+      "g": 182,
+      "b": 194
+    },
+    "#6d587e": {
+      "r": 109,
+      "g": 88,
+      "b": 126
+    },
+    "#a09899": {
+      "r": 160,
+      "g": 152,
+      "b": 153
+    },
+    "#869eaf": {
+      "r": 134,
+      "g": 158,
+      "b": 175
+    },
+    "#a9b0cb": {
+      "r": 169,
+      "g": 176,
+      "b": 203
+    },
+    "#8ea8a9": {
+      "r": 142,
+      "g": 168,
+      "b": 169
+    },
+    "#bbb6be": {
+      "r": 187,
+      "g": 182,
+      "b": 190
+    },
+    "#9fa3ad": {
+      "r": 159,
+      "g": 163,
+      "b": 173
+    },
+    "#694a38": {
+      "r": 105,
+      "g": 74,
+      "b": 56
+    },
+    "#5c6a79": {
+      "r": 92,
+      "g": 106,
+      "b": 121
+    },
+    "#634c46": {
+      "r": 99,
+      "g": 76,
+      "b": 70
+    },
+    "#2f363b": {
+      "r": 47,
+      "g": 54,
+      "b": 59
+    },
+    "#495059": {
+      "r": 73,
+      "g": 80,
+      "b": 89
+    },
+    "#878079": {
+      "r": 135,
+      "g": 128,
+      "b": 121
+    },
+    "#665f63": {
+      "r": 102,
+      "g": 95,
+      "b": 99
+    },
+    "#745d57": {
+      "r": 116,
+      "g": 93,
+      "b": 87
+    },
+    "#373b3b": {
+      "r": 55,
+      "g": 59,
+      "b": 59
+    },
+    "#4b4d4b": {
+      "r": 75,
+      "g": 77,
+      "b": 75
+    },
+    "#727c76": {
+      "r": 114,
+      "g": 124,
+      "b": 118
+    },
+    "#8c8b8e": {
+      "r": 140,
+      "g": 139,
+      "b": 142
+    },
+    "#858a95": {
+      "r": 133,
+      "g": 138,
+      "b": 149
+    },
+    "#8f92ae": {
+      "r": 143,
+      "g": 146,
+      "b": 174
+    },
+    "#77829a": {
+      "r": 119,
+      "g": 130,
+      "b": 154
+    },
+    "#626767": {
+      "r": 98,
+      "g": 103,
+      "b": 103
+    },
+    "#51566a": {
+      "r": 81,
+      "g": 86,
+      "b": 106
+    },
+    "#6e6d62": {
+      "r": 110,
+      "g": 109,
+      "b": 98
+    },
+    "#727367": {
+      "r": 114,
+      "g": 115,
+      "b": 103
+    },
+    "#d19b6b": {
+      "r": 209,
+      "g": 155,
+      "b": 107
+    },
+    "#606a80": {
+      "r": 96,
+      "g": 106,
+      "b": 128
+    },
+    "#6c7568": {
+      "r": 108,
+      "g": 117,
+      "b": 104
+    },
+    "#5a6f86": {
+      "r": 90,
+      "g": 111,
+      "b": 134
+    },
+    "#466a96": {
+      "r": 70,
+      "g": 106,
+      "b": 150
+    },
+    "#9f7877": {
+      "r": 159,
+      "g": 120,
+      "b": 119
+    },
+    "#ac9e86": {
+      "r": 172,
+      "g": 158,
+      "b": 134
+    },
+    "#9a8963": {
+      "r": 154,
+      "g": 137,
+      "b": 99
+    },
+    "#676844": {
+      "r": 103,
+      "g": 104,
+      "b": 68
+    },
+    "#4f655a": {
+      "r": 79,
+      "g": 101,
+      "b": 90
+    },
+    "#9d814e": {
+      "r": 157,
+      "g": 129,
+      "b": 78
+    },
+    "#c17479": {
+      "r": 193,
+      "g": 116,
+      "b": 121
+    },
+    "#787777": {
+      "r": 120,
+      "g": 119,
+      "b": 119
+    },
+    "#6b7175": {
+      "r": 107,
+      "g": 113,
+      "b": 117
+    },
+    "#6c6f7e": {
+      "r": 108,
+      "g": 111,
+      "b": 126
+    },
+    "#7c6a6c": {
+      "r": 124,
+      "g": 106,
+      "b": 108
+    },
+    "#797b7e": {
+      "r": 121,
+      "g": 123,
+      "b": 126
+    },
+    "#5f6268": {
+      "r": 95,
+      "g": 98,
+      "b": 104
+    },
+    "#3d3b30": {
+      "r": 61,
+      "g": 59,
+      "b": 48
+    },
+    "#645e4a": {
+      "r": 100,
+      "g": 94,
+      "b": 74
+    },
+    "#544248": {
+      "r": 84,
+      "g": 66,
+      "b": 72
+    },
+    "#b1a4b3": {
+      "r": 177,
+      "g": 164,
+      "b": 179
+    },
+    "#797159": {
+      "r": 121,
+      "g": 113,
+      "b": 89
+    },
+    "#c3c0c4": {
+      "r": 195,
+      "g": 192,
+      "b": 196
+    },
+    "#bbb998": {
+      "r": 187,
+      "g": 185,
+      "b": 152
+    },
+    "#979490": {
+      "r": 151,
+      "g": 148,
+      "b": 144
+    },
+    "#aaa7a3": {
+      "r": 170,
+      "g": 167,
+      "b": 163
+    },
+    "#8c7d42": {
+      "r": 140,
+      "g": 125,
+      "b": 66
+    },
+    "#797458": {
+      "r": 121,
+      "g": 116,
+      "b": 88
+    },
+    "#4f5f48": {
+      "r": 79,
+      "g": 95,
+      "b": 72
+    },
+    "#8e6661": {
+      "r": 142,
+      "g": 102,
+      "b": 97
+    },
+    "#b88b81": {
+      "r": 184,
+      "g": 139,
+      "b": 129
+    },
+    "#724848": {
+      "r": 114,
+      "g": 72,
+      "b": 72
+    },
+    "#918789": {
+      "r": 145,
+      "g": 135,
+      "b": 137
+    },
+    "#ae9a83": {
+      "r": 174,
+      "g": 154,
+      "b": 131
+    },
+    "#3f3f3f": {
+      "r": 63,
+      "g": 63,
+      "b": 63
+    },
+    "#dacccc": {
+      "r": 218,
+      "g": 204,
+      "b": 204
+    },
+    "#b9a3a4": {
+      "r": 185,
+      "g": 163,
+      "b": 164
+    },
+    "#cbc6c8": {
+      "r": 203,
+      "g": 198,
+      "b": 200
+    },
+    "#b78f73": {
+      "r": 183,
+      "g": 143,
+      "b": 115
+    },
+    "#dd8275": {
+      "r": 221,
+      "g": 130,
+      "b": 117
+    },
+    "#776861": {
+      "r": 119,
+      "g": 104,
+      "b": 97
+    },
+    "#bd9fb8": {
+      "r": 189,
+      "g": 159,
+      "b": 184
+    },
+    "#dda97d": {
+      "r": 221,
+      "g": 169,
+      "b": 125
+    },
+    "#ba995b": {
+      "r": 186,
+      "g": 153,
+      "b": 91
+    },
+    "#c3a2ad": {
+      "r": 195,
+      "g": 162,
+      "b": 173
+    },
+    "#b8975a": {
+      "r": 184,
+      "g": 151,
+      "b": 90
+    },
+    "#bb9a5b": {
+      "r": 187,
+      "g": 154,
+      "b": 91
+    },
+    "#c29d56": {
+      "r": 194,
+      "g": 157,
+      "b": 86
+    },
+    "#925f5d": {
+      "r": 146,
+      "g": 95,
+      "b": 93
+    },
+    "#c2a157": {
+      "r": 194,
+      "g": 161,
+      "b": 87
+    },
+    "#be9253": {
+      "r": 190,
+      "g": 146,
+      "b": 83
+    },
+    "#b9934d": {
+      "r": 185,
+      "g": 147,
+      "b": 77
+    },
+    "#c29c56": {
+      "r": 194,
+      "g": 156,
+      "b": 86
+    },
+    "#c5a257": {
+      "r": 197,
+      "g": 162,
+      "b": 87
+    },
+    "#c6b6a9": {
+      "r": 198,
+      "g": 182,
+      "b": 169
+    },
+    "#a2a1a0": {
+      "r": 162,
+      "g": 161,
+      "b": 160
+    },
+    "#788192": {
+      "r": 120,
+      "g": 129,
+      "b": 146
+    },
+    "#9a7882": {
+      "r": 154,
+      "g": 120,
+      "b": 130
+    },
+    "#9b897a": {
+      "r": 155,
+      "g": 137,
+      "b": 122
+    },
+    "#9e8f8c": {
+      "r": 158,
+      "g": 143,
+      "b": 140
+    },
+    "#968171": {
+      "r": 150,
+      "g": 129,
+      "b": 113
+    },
+    "#988473": {
+      "r": 152,
+      "g": 132,
+      "b": 115
+    },
+    "#a99b8f": {
+      "r": 169,
+      "g": 155,
+      "b": 143
+    },
+    "#c3a157": {
+      "r": 195,
+      "g": 161,
+      "b": 87
+    },
+    "#af9b88": {
+      "r": 175,
+      "g": 155,
+      "b": 136
+    },
+    "#bcb69f": {
+      "r": 188,
+      "g": 182,
+      "b": 159
+    },
+    "#bfa590": {
+      "r": 191,
+      "g": 165,
+      "b": 144
+    },
+    "#8d7f71": {
+      "r": 141,
+      "g": 127,
+      "b": 113
+    },
+    "#c8b8ac": {
+      "r": 200,
+      "g": 184,
+      "b": 172
+    },
+    "#b9afa6": {
+      "r": 185,
+      "g": 175,
+      "b": 166
+    },
+    "#b1a498": {
+      "r": 177,
+      "g": 164,
+      "b": 152
+    },
+    "#b8ab9f": {
+      "r": 184,
+      "g": 171,
+      "b": 159
+    },
+    "#b7ada4": {
+      "r": 183,
+      "g": 173,
+      "b": 164
+    },
+    "#6d6254": {
+      "r": 109,
+      "g": 98,
+      "b": 84
+    },
+    "#b99561": {
+      "r": 185,
+      "g": 149,
+      "b": 97
+    },
+    "#706654": {
+      "r": 112,
+      "g": 102,
+      "b": 84
+    },
+    "#785f4a": {
+      "r": 120,
+      "g": 95,
+      "b": 74
+    },
+    "#8a6a6a": {
+      "r": 138,
+      "g": 106,
+      "b": 106
+    },
+    "#8c7a6a": {
+      "r": 140,
+      "g": 122,
+      "b": 106
+    },
+    "#aaa8ac": {
+      "r": 170,
+      "g": 168,
+      "b": 172
+    },
+    "#ccc0b7": {
+      "r": 204,
+      "g": 192,
+      "b": 183
+    },
+    "#757075": {
+      "r": 117,
+      "g": 112,
+      "b": 117
+    },
+    "#a07e7d": {
+      "r": 160,
+      "g": 126,
+      "b": 125
+    },
+    "#472b2c": {
+      "r": 71,
+      "g": 43,
+      "b": 44
+    },
+    "#8f7072": {
+      "r": 143,
+      "g": 112,
+      "b": 114
+    },
+    "#41312d": {
+      "r": 65,
+      "g": 49,
+      "b": 45
+    },
+    "#bc9459": {
+      "r": 188,
+      "g": 148,
+      "b": 89
+    },
+    "#653939": {
+      "r": 101,
+      "g": 57,
+      "b": 57
+    },
+    "#8a5369": {
+      "r": 138,
+      "g": 83,
+      "b": 105
+    },
+    "#a7858d": {
+      "r": 167,
+      "g": 133,
+      "b": 141
+    },
+    "#4e3d29": {
+      "r": 78,
+      "g": 61,
+      "b": 41
+    },
+    "#ac7585": {
+      "r": 172,
+      "g": 117,
+      "b": 133
+    },
+    "#895f67": {
+      "r": 137,
+      "g": 95,
+      "b": 103
+    },
+    "#805657": {
+      "r": 128,
+      "g": 86,
+      "b": 87
+    },
+    "#a37b7e": {
+      "r": 163,
+      "g": 123,
+      "b": 126
+    },
+    "#ad8986": {
+      "r": 173,
+      "g": 137,
+      "b": 134
+    },
+    "#5c3735": {
+      "r": 92,
+      "g": 55,
+      "b": 53
+    },
+    "#5d3e41": {
+      "r": 93,
+      "g": 62,
+      "b": 65
+    },
+    "#8e7a73": {
+      "r": 142,
+      "g": 122,
+      "b": 115
+    },
+    "#af8a8b": {
+      "r": 175,
+      "g": 138,
+      "b": 139
+    },
+    "#bd979a": {
+      "r": 189,
+      "g": 151,
+      "b": 154
+    },
+    "#2a3137": {
+      "r": 42,
+      "g": 49,
+      "b": 55
+    },
+    "#727272": {
+      "r": 114,
+      "g": 114,
+      "b": 114
+    },
+    "#6f724a": {
+      "r": 111,
+      "g": 114,
+      "b": 74
+    },
+    "#b09665": {
+      "r": 176,
+      "g": 150,
+      "b": 101
+    },
+    "#413734": {
+      "r": 65,
+      "g": 55,
+      "b": 52
+    },
+    "#ba9a66": {
+      "r": 186,
+      "g": 154,
+      "b": 102
+    },
+    "#b1ab9f": {
+      "r": 177,
+      "g": 171,
+      "b": 159
+    },
+    "#512221": {
+      "r": 81,
+      "g": 34,
+      "b": 33
+    },
+    "#686052": {
+      "r": 104,
+      "g": 96,
+      "b": 82
+    },
+    "#636f82": {
+      "r": 99,
+      "g": 111,
+      "b": 130
+    },
+    "#8597ac": {
+      "r": 133,
+      "g": 151,
+      "b": 172
+    },
+    "#7a474a": {
+      "r": 122,
+      "g": 71,
+      "b": 74
+    },
+    "#4d7973": {
+      "r": 77,
+      "g": 121,
+      "b": 115
+    },
+    "#74accb": {
+      "r": 116,
+      "g": 172,
+      "b": 203
+    },
+    "#9b9eb4": {
+      "r": 155,
+      "g": 158,
+      "b": 180
+    },
+    "#bd9972": {
+      "r": 189,
+      "g": 153,
+      "b": 114
+    },
+    "#ba9c62": {
+      "r": 186,
+      "g": 156,
+      "b": 98
+    },
+    "#6e485c": {
+      "r": 110,
+      "g": 72,
+      "b": 92
+    },
+    "#7f7573": {
+      "r": 127,
+      "g": 117,
+      "b": 115
+    },
+    "#be9659": {
+      "r": 190,
+      "g": 150,
+      "b": 89
+    },
+    "#715f51": {
+      "r": 113,
+      "g": 95,
+      "b": 81
+    },
+    "#8a536b": {
+      "r": 138,
+      "g": 83,
+      "b": 107
+    },
+    "#5e6163": {
+      "r": 94,
+      "g": 97,
+      "b": 99
+    },
+    "#ceb695": {
+      "r": 206,
+      "g": 182,
+      "b": 149
+    },
+    "#975278": {
+      "r": 151,
+      "g": 82,
+      "b": 120
+    },
+    "#5d3942": {
+      "r": 93,
+      "g": 57,
+      "b": 66
+    },
+    "#c39d92": {
+      "r": 195,
+      "g": 157,
+      "b": 146
+    },
+    "#727067": {
+      "r": 114,
+      "g": 112,
+      "b": 103
+    },
+    "#c1a157": {
+      "r": 193,
+      "g": 161,
+      "b": 87
+    },
+    "#6381b9": {
+      "r": 99,
+      "g": 129,
+      "b": 185
+    },
+    "#9c6eb9": {
+      "r": 156,
+      "g": 110,
+      "b": 185
+    },
+    "#75aa6a": {
+      "r": 117,
+      "g": 170,
+      "b": 106
+    },
+    "#a96262": {
+      "r": 169,
+      "g": 98,
+      "b": 98
+    },
+    "#8d4545": {
+      "r": 141,
+      "g": 69,
+      "b": 69
+    },
+    "#a35581": {
+      "r": 163,
+      "g": 85,
+      "b": 129
+    },
+    "#703852": {
+      "r": 112,
+      "g": 56,
+      "b": 82
+    },
+    "#7d4d69": {
+      "r": 125,
+      "g": 77,
+      "b": 105
+    },
+    "#9a4365": {
+      "r": 154,
+      "g": 67,
+      "b": 101
+    },
+    "#9c507b": {
+      "r": 156,
+      "g": 80,
+      "b": 123
+    },
+    "#c1a056": {
+      "r": 193,
+      "g": 160,
+      "b": 86
+    },
+    "#814e83": {
+      "r": 129,
+      "g": 78,
+      "b": 131
+    },
+    "#a75c6e": {
+      "r": 167,
+      "g": 92,
+      "b": 110
+    },
+    "#e2cbc9": {
+      "r": 226,
+      "g": 203,
+      "b": 201
+    },
+    "#2f3536": {
+      "r": 47,
+      "g": 53,
+      "b": 54
+    },
+    "#9c7e91": {
+      "r": 156,
+      "g": 126,
+      "b": 145
+    },
+    "#7d98aa": {
+      "r": 125,
+      "g": 152,
+      "b": 170
+    },
+    "#6b7481": {
+      "r": 107,
+      "g": 116,
+      "b": 129
+    },
+    "#a7a7a7": {
+      "r": 167,
+      "g": 167,
+      "b": 167
+    },
+    "#7e6568": {
+      "r": 126,
+      "g": 101,
+      "b": 104
+    },
+    "#939393": {
+      "r": 147,
+      "g": 147,
+      "b": 147
+    },
+    "#c4a258": {
+      "r": 196,
+      "g": 162,
+      "b": 88
+    },
+    "#c1a057": {
+      "r": 193,
+      "g": 160,
+      "b": 87
+    },
+    "#c09f56": {
+      "r": 192,
+      "g": 159,
+      "b": 86
+    },
+    "#bb9f5f": {
+      "r": 187,
+      "g": 159,
+      "b": 95
+    },
+    "#af9a6c": {
+      "r": 175,
+      "g": 154,
+      "b": 108
+    },
+    "#bda061": {
+      "r": 189,
+      "g": 160,
+      "b": 97
+    },
+    "#a08550": {
+      "r": 160,
+      "g": 133,
+      "b": 80
+    },
+    "#9e9681": {
+      "r": 158,
+      "g": 150,
+      "b": 129
+    },
+    "#bda260": {
+      "r": 189,
+      "g": 162,
+      "b": 96
+    },
+    "#bfaa6e": {
+      "r": 191,
+      "g": 170,
+      "b": 110
+    },
+    "#ad9658": {
+      "r": 173,
+      "g": 150,
+      "b": 88
+    },
+    "#be9a54": {
+      "r": 190,
+      "g": 154,
+      "b": 84
+    },
+    "#9e8f75": {
+      "r": 158,
+      "g": 143,
+      "b": 117
+    },
+    "#a39578": {
+      "r": 163,
+      "g": 149,
+      "b": 120
+    },
+    "#c2a057": {
+      "r": 194,
+      "g": 160,
+      "b": 87
+    },
+    "#ae9150": {
+      "r": 174,
+      "g": 145,
+      "b": 80
+    },
+    "#b36949": {
+      "r": 179,
+      "g": 105,
+      "b": 73
+    },
+    "#bd9b56": {
+      "r": 189,
+      "g": 155,
+      "b": 86
+    },
+    "#a68649": {
+      "r": 166,
+      "g": 134,
+      "b": 73
+    },
+    "#be9f77": {
+      "r": 190,
+      "g": 159,
+      "b": 119
+    },
+    "#b08c4a": {
+      "r": 176,
+      "g": 140,
+      "b": 74
+    },
+    "#636a73": {
+      "r": 99,
+      "g": 106,
+      "b": 115
+    },
+    "#b0924e": {
+      "r": 176,
+      "g": 146,
+      "b": 78
+    },
+    "#ba9854": {
+      "r": 186,
+      "g": 152,
+      "b": 84
+    },
+    "#bc9b56": {
+      "r": 188,
+      "g": 155,
+      "b": 86
+    },
+    "#c19f56": {
+      "r": 193,
+      "g": 159,
+      "b": 86
+    },
+    "#c09e56": {
+      "r": 192,
+      "g": 158,
+      "b": 86
+    },
+    "#52255f": {
+      "r": 82,
+      "g": 37,
+      "b": 95
+    },
+    "#b09967": {
+      "r": 176,
+      "g": 153,
+      "b": 103
+    },
+    "#693d74": {
+      "r": 105,
+      "g": 61,
+      "b": 116
+    },
+    "#bc9d62": {
+      "r": 188,
+      "g": 157,
+      "b": 98
+    },
+    "#b29046": {
+      "r": 178,
+      "g": 144,
+      "b": 70
+    },
+    "#c2a056": {
+      "r": 194,
+      "g": 160,
+      "b": 86
+    },
+    "#b59246": {
+      "r": 181,
+      "g": 146,
+      "b": 70
+    },
+    "#978147": {
+      "r": 151,
+      "g": 129,
+      "b": 71
+    },
+    "#c4a357": {
+      "r": 196,
+      "g": 163,
+      "b": 87
+    },
+    "#bf9a54": {
+      "r": 191,
+      "g": 154,
+      "b": 84
+    },
+    "#99847b": {
+      "r": 153,
+      "g": 132,
+      "b": 123
+    },
+    "#727072": {
+      "r": 114,
+      "g": 112,
+      "b": 114
+    },
+    "#998876": {
+      "r": 153,
+      "g": 136,
+      "b": 118
+    },
+    "#706a63": {
+      "r": 112,
+      "g": 106,
+      "b": 99
+    },
+    "#8e874b": {
+      "r": 142,
+      "g": 135,
+      "b": 75
+    },
+    "#a99485": {
+      "r": 169,
+      "g": 148,
+      "b": 133
+    },
+    "#8a7568": {
+      "r": 138,
+      "g": 117,
+      "b": 104
+    },
+    "#705b4f": {
+      "r": 112,
+      "g": 91,
+      "b": 79
+    },
+    "#8d6455": {
+      "r": 141,
+      "g": 100,
+      "b": 85
+    },
+    "#ab9685": {
+      "r": 171,
+      "g": 150,
+      "b": 133
+    },
+    "#887a6e": {
+      "r": 136,
+      "g": 122,
+      "b": 110
+    },
+    "#a99476": {
+      "r": 169,
+      "g": 148,
+      "b": 118
+    },
+    "#977c43": {
+      "r": 151,
+      "g": 124,
+      "b": 67
+    },
+    "#8c7740": {
+      "r": 140,
+      "g": 119,
+      "b": 64
+    },
+    "#8b7640": {
+      "r": 139,
+      "g": 118,
+      "b": 64
+    },
+    "#936c30": {
+      "r": 147,
+      "g": 108,
+      "b": 48
+    },
+    "#83807b": {
+      "r": 131,
+      "g": 128,
+      "b": 123
+    },
+    "#9e8356": {
+      "r": 158,
+      "g": 131,
+      "b": 86
+    },
+    "#88796f": {
+      "r": 136,
+      "g": 121,
+      "b": 111
+    },
+    "#937b3e": {
+      "r": 147,
+      "g": 123,
+      "b": 62
+    },
+    "#8f7940": {
+      "r": 143,
+      "g": 121,
+      "b": 64
+    },
+    "#857951": {
+      "r": 133,
+      "g": 121,
+      "b": 81
+    },
+    "#8d7b46": {
+      "r": 141,
+      "g": 123,
+      "b": 70
+    },
+    "#ac7774": {
+      "r": 172,
+      "g": 119,
+      "b": 116
+    },
+    "#5a2e27": {
+      "r": 90,
+      "g": 46,
+      "b": 39
+    },
+    "#806f55": {
+      "r": 128,
+      "g": 111,
+      "b": 85
+    },
+    "#7d6b4d": {
+      "r": 125,
+      "g": 107,
+      "b": 77
+    },
+    "#897860": {
+      "r": 137,
+      "g": 120,
+      "b": 96
+    },
+    "#737c7c": {
+      "r": 115,
+      "g": 124,
+      "b": 124
+    },
+    "#716155": {
+      "r": 113,
+      "g": 97,
+      "b": 85
+    },
+    "#b59b6d": {
+      "r": 181,
+      "g": 155,
+      "b": 109
+    },
+    "#392f1b": {
+      "r": 57,
+      "g": 47,
+      "b": 27
+    },
+    "#a0926d": {
+      "r": 160,
+      "g": 146,
+      "b": 109
+    },
+    "#6e695a": {
+      "r": 110,
+      "g": 105,
+      "b": 90
+    },
+    "#738da2": {
+      "r": 115,
+      "g": 141,
+      "b": 162
+    },
+    "#835849": {
+      "r": 131,
+      "g": 88,
+      "b": 73
+    },
+    "#794d4d": {
+      "r": 121,
+      "g": 77,
+      "b": 77
+    },
+    "#98aebd": {
+      "r": 152,
+      "g": 174,
+      "b": 189
+    },
+    "#646a79": {
+      "r": 100,
+      "g": 106,
+      "b": 121
+    },
+    "#889eb5": {
+      "r": 136,
+      "g": 158,
+      "b": 181
+    },
+    "#8da1b8": {
+      "r": 141,
+      "g": 161,
+      "b": 184
+    },
+    "#8ca1b7": {
+      "r": 140,
+      "g": 161,
+      "b": 183
+    },
+    "#8da2b8": {
+      "r": 141,
+      "g": 162,
+      "b": 184
+    },
+    "#8ea3b9": {
+      "r": 142,
+      "g": 163,
+      "b": 185
+    },
+    "#899fb6": {
+      "r": 137,
+      "g": 159,
+      "b": 182
+    },
+    "#8e703c": {
+      "r": 142,
+      "g": 112,
+      "b": 60
+    },
+    "#8ea2b8": {
+      "r": 142,
+      "g": 162,
+      "b": 184
+    },
+    "#62be5d": {
+      "r": 98,
+      "g": 190,
+      "b": 93
+    },
+    "#da85cc": {
+      "r": 218,
+      "g": 133,
+      "b": 204
+    },
+    "#b29e69": {
+      "r": 178,
+      "g": 158,
+      "b": 105
+    },
+    "#eda771": {
+      "r": 237,
+      "g": 167,
+      "b": 113
+    },
+    "#eea368": {
+      "r": 238,
+      "g": 163,
+      "b": 104
+    },
+    "#cf6969": {
+      "r": 207,
+      "g": 105,
+      "b": 105
+    },
+    "#eea671": {
+      "r": 238,
+      "g": 166,
+      "b": 113
+    },
+    "#ce6363": {
+      "r": 206,
+      "g": 99,
+      "b": 99
+    },
+    "#d27777": {
+      "r": 210,
+      "g": 119,
+      "b": 119
+    },
+    "#cf6666": {
+      "r": 207,
+      "g": 102,
+      "b": 102
+    },
+    "#98a9bb": {
+      "r": 152,
+      "g": 169,
+      "b": 187
+    },
+    "#80a9db": {
+      "r": 128,
+      "g": 169,
+      "b": 219
+    },
+    "#5b7c8b": {
+      "r": 91,
+      "g": 124,
+      "b": 139
+    },
+    "#305d33": {
+      "r": 48,
+      "g": 93,
+      "b": 51
+    },
+    "#ad72c0": {
+      "r": 173,
+      "g": 114,
+      "b": 192
+    },
+    "#ad71c0": {
+      "r": 173,
+      "g": 113,
+      "b": 192
+    },
+    "#ae74c1": {
+      "r": 174,
+      "g": 116,
+      "b": 193
+    },
+    "#ac71bf": {
+      "r": 172,
+      "g": 113,
+      "b": 191
+    },
+    "#b07bc2": {
+      "r": 176,
+      "g": 123,
+      "b": 194
+    },
+    "#8fa2b6": {
+      "r": 143,
+      "g": 162,
+      "b": 182
+    },
+    "#ae75c1": {
+      "r": 174,
+      "g": 117,
+      "b": 193
+    },
+    "#ac70c0": {
+      "r": 172,
+      "g": 112,
+      "b": 192
+    },
+    "#ac70bf": {
+      "r": 172,
+      "g": 112,
+      "b": 191
+    },
+    "#9a9a9a": {
+      "r": 154,
+      "g": 154,
+      "b": 154
+    },
+    "#ae72c1": {
+      "r": 174,
+      "g": 114,
+      "b": 193
+    },
+    "#ae74c0": {
+      "r": 174,
+      "g": 116,
+      "b": 192
+    },
+    "#af78c1": {
+      "r": 175,
+      "g": 120,
+      "b": 193
+    },
+    "#b078c2": {
+      "r": 176,
+      "g": 120,
+      "b": 194
+    },
+    "#6c93b7": {
+      "r": 108,
+      "g": 147,
+      "b": 183
+    },
+    "#65bb6a": {
+      "r": 101,
+      "g": 187,
+      "b": 106
+    },
+    "#9e9e9e": {
+      "r": 158,
+      "g": 158,
+      "b": 158
+    },
+    "#92a5ba": {
+      "r": 146,
+      "g": 165,
+      "b": 186
+    },
+    "#707070": {
+      "r": 112,
+      "g": 112,
+      "b": 112
+    },
+    "#a5a5a5": {
+      "r": 165,
+      "g": 165,
+      "b": 165
+    },
+    "#eea36b": {
+      "r": 238,
+      "g": 163,
+      "b": 107
+    },
+    "#b28282": {
+      "r": 178,
+      "g": 130,
+      "b": 130
+    },
+    "#9d6c6c": {
+      "r": 157,
+      "g": 108,
+      "b": 108
+    },
+    "#ccb5b5": {
+      "r": 204,
+      "g": 181,
+      "b": 181
+    },
+    "#e8e8e8": {
+      "r": 232,
+      "g": 232,
+      "b": 232
+    },
+    "#96a7ba": {
+      "r": 150,
+      "g": 167,
+      "b": 186
+    },
+    "#cacaca": {
+      "r": 202,
+      "g": 202,
+      "b": 202
+    },
+    "#a36c6c": {
+      "r": 163,
+      "g": 108,
+      "b": 108
+    },
+    "#ead3d3": {
+      "r": 234,
+      "g": 211,
+      "b": 211
+    },
+    "#595959": {
+      "r": 89,
+      "g": 89,
+      "b": 89
+    },
+    "#585858": {
+      "r": 88,
+      "g": 88,
+      "b": 88
+    },
+    "#555555": {
+      "r": 85,
+      "g": 85,
+      "b": 85
+    },
+    "#5d5d5d": {
+      "r": 93,
+      "g": 93,
+      "b": 93
+    },
+    "#616161": {
+      "r": 97,
+      "g": 97,
+      "b": 97
+    },
+    "#676767": {
+      "r": 103,
+      "g": 103,
+      "b": 103
+    },
+    "#6d6d6d": {
+      "r": 109,
+      "g": 109,
+      "b": 109
+    },
+    "#a16c6c": {
+      "r": 161,
+      "g": 108,
+      "b": 108
+    },
+    "#93a6bb": {
+      "r": 147,
+      "g": 166,
+      "b": 187
+    },
+    "#949494": {
+      "r": 148,
+      "g": 148,
+      "b": 148
+    },
+    "#7a7a7a": {
+      "r": 122,
+      "g": 122,
+      "b": 122
+    },
+    "#b17b77": {
+      "r": 177,
+      "g": 123,
+      "b": 119
+    },
+    "#515151": {
+      "r": 81,
+      "g": 81,
+      "b": 81
+    },
+    "#9a6f6d": {
+      "r": 154,
+      "g": 111,
+      "b": 109
+    },
+    "#422020": {
+      "r": 66,
+      "g": 32,
+      "b": 32
+    },
+    "#794243": {
+      "r": 121,
+      "g": 66,
+      "b": 67
+    },
+    "#7b7b7b": {
+      "r": 123,
+      "g": 123,
+      "b": 123
+    },
+    "#848484": {
+      "r": 132,
+      "g": 132,
+      "b": 132
+    },
+    "#2f2f2f": {
+      "r": 47,
+      "g": 47,
+      "b": 47
+    },
+    "#6c6c6c": {
+      "r": 108,
+      "g": 108,
+      "b": 108
+    },
+    "#666666": {
+      "r": 102,
+      "g": 102,
+      "b": 102
+    },
+    "#8b7f64": {
+      "r": 139,
+      "g": 127,
+      "b": 100
+    },
+    "#c9c9c9": {
+      "r": 201,
+      "g": 201,
+      "b": 201
+    },
+    "#575757": {
+      "r": 87,
+      "g": 87,
+      "b": 87
+    },
+    "#d6d6d6": {
+      "r": 214,
+      "g": 214,
+      "b": 214
+    },
+    "#95a7b9": {
+      "r": 149,
+      "g": 167,
+      "b": 185
+    },
+    "#7d754a": {
+      "r": 125,
+      "g": 117,
+      "b": 74
+    },
+    "#d7c5c6": {
+      "r": 215,
+      "g": 197,
+      "b": 198
+    },
+    "#f4f4f4": {
+      "r": 244,
+      "g": 244,
+      "b": 244
+    },
+    "#7c7c7c": {
+      "r": 124,
+      "g": 124,
+      "b": 124
+    },
+    "#a8a8a8": {
+      "r": 168,
+      "g": 168,
+      "b": 168
+    },
+    "#5b5b5b": {
+      "r": 91,
+      "g": 91,
+      "b": 91
+    },
+    "#8fa1b5": {
+      "r": 143,
+      "g": 161,
+      "b": 181
+    },
+    "#c65c5c": {
+      "r": 198,
+      "g": 92,
+      "b": 92
+    },
+    "#b5b5b5": {
+      "r": 181,
+      "g": 181,
+      "b": 181
+    },
+    "#5c82c5": {
+      "r": 92,
+      "g": 130,
+      "b": 197
+    },
+    "#d4c2c3": {
+      "r": 212,
+      "g": 194,
+      "b": 195
+    },
+    "#e3e3e3": {
+      "r": 227,
+      "g": 227,
+      "b": 227
+    },
+    "#5f70a0": {
+      "r": 95,
+      "g": 112,
+      "b": 160
+    },
+    "#a17f60": {
+      "r": 161,
+      "g": 127,
+      "b": 96
+    },
+    "#c5cbdc": {
+      "r": 197,
+      "g": 203,
+      "b": 220
+    },
+    "#8ea1b5": {
+      "r": 142,
+      "g": 161,
+      "b": 181
+    },
+    "#94a7bc": {
+      "r": 148,
+      "g": 167,
+      "b": 188
+    },
+    "#95a8bc": {
+      "r": 149,
+      "g": 168,
+      "b": 188
+    },
+    "#96a8ba": {
+      "r": 150,
+      "g": 168,
+      "b": 186
+    },
+    "#e6e6e6": {
+      "r": 230,
+      "g": 230,
+      "b": 230
+    },
+    "#9baec2": {
+      "r": 155,
+      "g": 174,
+      "b": 194
+    },
+    "#91a5ba": {
+      "r": 145,
+      "g": 165,
+      "b": 186
+    },
+    "#dcd1c6": {
+      "r": 220,
+      "g": 209,
+      "b": 198
+    },
+    "#93a5b8": {
+      "r": 147,
+      "g": 165,
+      "b": 184
+    },
+    "#94a6b9": {
+      "r": 148,
+      "g": 166,
+      "b": 185
+    },
+    "#92a4b7": {
+      "r": 146,
+      "g": 164,
+      "b": 183
+    },
+    "#cccccc": {
+      "r": 204,
+      "g": 204,
+      "b": 204
+    },
+    "#97a8ba": {
+      "r": 151,
+      "g": 168,
+      "b": 186
+    },
+    "#8da1b5": {
+      "r": 141,
+      "g": 161,
+      "b": 181
+    },
+    "#97a9bb": {
+      "r": 151,
+      "g": 169,
+      "b": 187
+    },
+    "#98abc0": {
+      "r": 152,
+      "g": 171,
+      "b": 192
+    },
+    "#9aadc2": {
+      "r": 154,
+      "g": 173,
+      "b": 194
+    },
+    "#9badc2": {
+      "r": 155,
+      "g": 173,
+      "b": 194
+    },
+    "#8ea2b9": {
+      "r": 142,
+      "g": 162,
+      "b": 185
+    },
+    "#91a4b7": {
+      "r": 145,
+      "g": 164,
+      "b": 183
+    },
+    "#9cadc0": {
+      "r": 156,
+      "g": 173,
+      "b": 192
+    },
+    "#90a3b9": {
+      "r": 144,
+      "g": 163,
+      "b": 185
+    },
+    "#889bb1": {
+      "r": 136,
+      "g": 155,
+      "b": 177
+    },
+    "#72c077": {
+      "r": 114,
+      "g": 192,
+      "b": 119
+    },
+    "#8069c0": {
+      "r": 128,
+      "g": 105,
+      "b": 192
+    },
+    "#de7978": {
+      "r": 222,
+      "g": 121,
+      "b": 120
+    },
+    "#cf6e6e": {
+      "r": 207,
+      "g": 110,
+      "b": 110
+    },
+    "#6d3637": {
+      "r": 109,
+      "g": 54,
+      "b": 55
+    },
+    "#eea876": {
+      "r": 238,
+      "g": 168,
+      "b": 118
+    },
+    "#eea775": {
+      "r": 238,
+      "g": 167,
+      "b": 117
+    },
+    "#99abbf": {
+      "r": 153,
+      "g": 171,
+      "b": 191
+    },
+    "#5b88dc": {
+      "r": 91,
+      "g": 136,
+      "b": 220
+    },
+    "#d773c6": {
+      "r": 215,
+      "g": 115,
+      "b": 198
+    },
+    "#eea670": {
+      "r": 238,
+      "g": 166,
+      "b": 112
+    },
+    "#5f89dc": {
+      "r": 95,
+      "g": 137,
+      "b": 220
+    },
+    "#638cdc": {
+      "r": 99,
+      "g": 140,
+      "b": 220
+    },
+    "#6a91dd": {
+      "r": 106,
+      "g": 145,
+      "b": 221
+    },
+    "#eea46c": {
+      "r": 238,
+      "g": 164,
+      "b": 108
+    },
+    "#557ed2": {
+      "r": 85,
+      "g": 126,
+      "b": 210
+    },
+    "#eea771": {
+      "r": 238,
+      "g": 167,
+      "b": 113
+    },
+    "#5d97b1": {
+      "r": 93,
+      "g": 151,
+      "b": 177
+    },
+    "#5881d2": {
+      "r": 88,
+      "g": 129,
+      "b": 210
+    },
+    "#688bd4": {
+      "r": 104,
+      "g": 139,
+      "b": 212
+    },
+    "#5f84d2": {
+      "r": 95,
+      "g": 132,
+      "b": 210
+    },
+    "#5d84d3": {
+      "r": 93,
+      "g": 132,
+      "b": 211
+    },
+    "#ae835a": {
+      "r": 174,
+      "g": 131,
+      "b": 90
+    },
+    "#bf6766": {
+      "r": 191,
+      "g": 103,
+      "b": 102
+    },
+    "#de77a3": {
+      "r": 222,
+      "g": 119,
+      "b": 163
+    },
+    "#8699af": {
+      "r": 134,
+      "g": 153,
+      "b": 175
+    },
+    "#bf6564": {
+      "r": 191,
+      "g": 101,
+      "b": 100
+    },
+    "#cb6769": {
+      "r": 203,
+      "g": 103,
+      "b": 105
+    },
+    "#af87c6": {
+      "r": 175,
+      "g": 135,
+      "b": 198
+    },
+    "#b26e6e": {
+      "r": 178,
+      "g": 110,
+      "b": 110
+    },
+    "#9b6862": {
+      "r": 155,
+      "g": 104,
+      "b": 98
+    },
+    "#784942": {
+      "r": 120,
+      "g": 73,
+      "b": 66
+    },
+    "#794a44": {
+      "r": 121,
+      "g": 74,
+      "b": 68
+    },
+    "#744640": {
+      "r": 116,
+      "g": 70,
+      "b": 64
+    },
+    "#794b44": {
+      "r": 121,
+      "g": 75,
+      "b": 68
+    },
+    "#cb6467": {
+      "r": 203,
+      "g": 100,
+      "b": 103
+    },
+    "#796f30": {
+      "r": 121,
+      "g": 111,
+      "b": 48
+    },
+    "#608adc": {
+      "r": 96,
+      "g": 138,
+      "b": 220
+    },
+    "#b3665e": {
+      "r": 179,
+      "g": 102,
+      "b": 94
+    },
+    "#73c36e": {
+      "r": 115,
+      "g": 195,
+      "b": 110
+    },
+    "#6790dd": {
+      "r": 103,
+      "g": 144,
+      "b": 221
+    },
+    "#6dbd72": {
+      "r": 109,
+      "g": 189,
+      "b": 114
+    },
+    "#6cbe72": {
+      "r": 108,
+      "g": 190,
+      "b": 114
+    }
+  }
 }
