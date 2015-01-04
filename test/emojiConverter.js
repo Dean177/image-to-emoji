@@ -32,11 +32,16 @@ describe('EmojiConverter', function() {
     });
 
     describe('#getAverageRGB', function() {
-        it('should be able to average the color of a png', function() {
-            var backgroundColor = {r: 10, g: 20, b: 30};
+        var image;
+        var backgroundColor = {r: 10, g: 20, b: 30};
+        before(function() {
+            return emojiConverter
+                ._createImage(20, 20, backgroundColor)
+                .then(function(createdImage) { image = createdImage; });
+        });
 
-            return emojiConverter._createImage(1, 1, backgroundColor)
-                .then(emojiConverter.getAverageRGB)
+        it('should be able to average the color of a png', function() {
+            return emojiConverter.getAverageRGB({top: 0, left: 0, right: 20, bottom: 20}, image)
                 .then(function(averageColor) {
                     should.exist(averageColor);
                     averageColor.r.should.equal(backgroundColor.r);
@@ -46,26 +51,35 @@ describe('EmojiConverter', function() {
         });
     });
 
-    describe('#getEmojiFromColor', function() {
+    describe('#_getEmojiFromColor', function() {
         it('provides an emoji for any given color', function() {
-            var closestEmoji = emojiConverter.getEmojiFromColor(Color.WHITE);
+            var closestEmoji = emojiConverter._getEmojiFromColor(Color.WHITE);
 
             should.exist(closestEmoji);
             closestEmoji.should.be.a('string');
-            fs.readdirSync(emojiPath).should.contain(closestEmoji);
+            fs.readdirSync(emojiPath).should.contain(closestEmoji.split(path.sep).pop());
+        });
+    });
+
+    describe('#_mapImageToEmojiChunks', function() {
+        var image;
+        var backgroundColor = {r: 10, g: 20, b: 30};
+        before(function() {
+            return emojiConverter
+                ._createImage(20, 20, backgroundColor)
+                .then(function(createdImage) { image = createdImage; });
         });
     });
 
     describe('#convertImageToEmoji', function() {
-        it('can write the image to a file', function() {
+        it('can write the image to a file', function () {
+            this.timeout(4000);
             return emojiConverter
                 .convertImageToEmoji(path.join(__dirname, "grumpy-cat.jpg"))
-                .then(function(emojiImage) {
+                .then(function (emojiImage) {
                     return emojiConverter.writeImageToFile(path.join(testDir, "out.png"), emojiImage);
-                }).then(function(file) {
+                }).then(function (file) {
                     mime.lookup(path.join(__dirname, file)).should.equal("image/png");
-                }).catch(function(err) {
-                    should.not.exist(err);
                 });
         });
     });

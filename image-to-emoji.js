@@ -10,10 +10,56 @@ function EmojiConverter() {
     this.jsonFile = "hexValueImageMap.json";
     this.emojiPath = path.join(__dirname, "/../", "Emojis");
     this.hexToEmoji = {};
-
+    this.hexToRGB = {};
     var self = this;
 
-    this.getEmojiFromColor = function(color) {
+    this.convertImageToEmoji = function(imagePath) {
+        return self._openImage(imagePath).then(function(image) {
+            var startTime = new Date().getTime();
+            var emojiChunkMap = self._mapImageToEmojiChunks(image);
+            var emojiImage = self._createImage(image.width(), image.height(), Color.BLACK);
+
+            return Promise.join(emojiChunkMap, emojiImage, function(emojiChunkMap, emojiImage) {
+                var imageChunksProcessedTime = new Date().getTime();
+                console.log("imageChunks processed in: " + (imageChunksProcessedTime - startTime) + "ms");
+
+                return Promise.each(emojiChunkMap, function(emojiChunk) {
+                    return self._paste(emojiChunk.coordinates, emojiChunk.emoji, emojiImage);
+                }).then(function() {
+                    var imageDrawnTime = new Date().getTime() - imageChunksProcessedTime;
+                    console.log("images drawn in: " + imageDrawnTime + "ms");
+                    return emojiImage;
+                });
+            });
+        });
+    };
+
+    this._mapImageToEmojiChunks = function(image) {
+        var width = image.width();
+        var height = image.height();
+
+        return Promise.map(self ._getChunks(width, height), function(chunk) {
+            return self._getEmojiFromChunk(chunk, image);
+        }, {concurrency: Infinity});
+    };
+
+    this._getEmojiFromChunk = function(chunk, image) {
+        return self
+            .getAverageRGB(chunk, image)
+            .then(self._getEmojiFromColor)
+            .then(self._openImage)
+            // TODO
+            //.then(function(emojiImage) {
+            //    var width = chunk.right - chunk.left;
+            //    var height = chunk.bottom - chunk.top;
+            //    return self._resize(width, height, emojiImage);
+            //})
+            .then(function(resizedEmoji) {
+                return {emoji: resizedEmoji, coordinates: chunk};
+            });
+    };
+
+    this._getEmojiFromColor = function(color) {
         var emojiKey = null;
         var minimumDifference = Number.MAX_VALUE;
 
@@ -30,7 +76,7 @@ function EmojiConverter() {
                 }
             });
 
-        return self.hexToEmoji[emojiKey];
+        return path.join(self.emojiPath, "16px", self.hexToEmoji[emojiKey]);
     };
 
     this.readImageMap = function(emojiPath) {
@@ -55,71 +101,51 @@ function EmojiConverter() {
         return Promise.all(
             emojis.map(function(emoji) {
                 return self._openImage(path.join(imagePath, "/", emoji))
-                    .then(self.getAverageRGB)
+                    .then(function(image) { return self.getAverageRGB(null, image) })
                     .then(function(color) {
-                        self.hexToEmoji[color.getHexValue()] = emoji;
+                        var hexValue = color.getHexValue();
+                        self.hexToRGB[hexValue] = color;
+                        self.hexToEmoji[hexValue] = emoji;
                     })
             }))
             .then(function () {
                 return fs.writeJSONAsync(path.join(imagePath, "/", self.jsonFile), self.hexToEmoji)
             });
     };
-
-    this.convertImageToEmoji = function(imagePath) {
-        var originalImage;
-        //Size is the width & height of the emoji on the target image.
-        var size = 8;
-        return self._openImage(imagePath)
-            .then(function(image) {
-                originalImage = image;
-                return self._createImage(image.width(), image.height(), Color.BLACK);
-            })
-            .then(function(emojiImage) {
-
-                var imageChunks = [];
-
-                // TODO this will leave a gap at the bottom of the image
-                // TODO make this an async method
-                for (var top = 0; top < originalImage.height() - size; top += size) {
-                    for (var left = 0; left < originalImage.width() - size; left += size) {
-                        imageChunks.push({ top: top, left: left, right: left + size, bottom: top + size });
-                    }
-                }
-
-                return Promise.reduce(imageChunks, function(accumulatedEmojiImage, originalImageChunk) {
-                    return self
-                        ._extract(originalImageChunk, originalImage)
-                        .then(self.getAverageRGB)
-                        .then(self.getEmojiFromColor)
-                        .then(function(emoji) {
-                            return self._drawEmojiOntoImage(originalImageChunk, path.join(self.emojiPath, emoji), accumulatedEmojiImage);
-                        })
-                        ;
-                }, emojiImage);
-            });
-    };
 }
 
+EmojiConverter.prototype._getChunks = function(width, height) {
+    var size = 16;
+    var chunkCoordinates = [];
 
+    // TODO this will leave a gap along the right and bottom of the image unless image.width = n * size
+    for (var top = 0; top < height - size; top += size) {
+        for (var left = 0; left < width - size; left += size) {
+            chunkCoordinates.push({top: top, left: left, right: left + size, bottom: top + size});
+        }
+    }
 
-EmojiConverter.prototype.getAverageRGB = function(image) {
+    return chunkCoordinates;
+};
+
+EmojiConverter.prototype.getAverageRGB = function(chunk, image) {
     return new Promise(function(resolve, reject) {
         try {
+            chunk = chunk || {top: 0, left: 0, right: image.width(), bottom: image.height()};
             var averageColor = new Color({r: 0, g: 0, b: 0});
-            var width = image.width();
-            var height = image.height();
-
-            for (var left = 0; left < width; left++) {
-                for (var top = 0; top < height; top++) {
+            var pixelsSampled = 0;
+            for (var top = chunk.top; top < chunk.bottom; top += 3) {
+                for (var left = chunk.left; left < chunk.right; left += 3) {
                     var pixel = image.getPixel(left, top);
+                    pixelsSampled++;
                     averageColor.r += pixel.r;
                     averageColor.g += pixel.g;
                     averageColor.b += pixel.b;
                 }
             }
-            averageColor.r = Math.round(averageColor.r / (width * height));
-            averageColor.g = Math.round(averageColor.g / (width * height));
-            averageColor.b = Math.round(averageColor.b / (width * height));
+            averageColor.r = Math.round(averageColor.r / pixelsSampled);
+            averageColor.g = Math.round(averageColor.g / pixelsSampled);
+            averageColor.b = Math.round(averageColor.b / pixelsSampled);
 
             resolve(averageColor);
         } catch (err) {
@@ -128,22 +154,9 @@ EmojiConverter.prototype.getAverageRGB = function(image) {
     });
 };
 
-EmojiConverter.prototype._drawEmojiOntoImage = function(position, emojiPath, image) {
-    var width = position.right - position.left;
-    var height = width;
-    return EmojiConverter.prototype._openImage(emojiPath)
-        .then(function(emojiImage) {
-            return EmojiConverter.prototype._resize(width, height, emojiImage);
-        })
-        .then(function(resizedImage) {
-            return EmojiConverter.prototype._paste(position, resizedImage, image);
-        })
-        ;
-};
-
 EmojiConverter.prototype._resize = function(width, height, image) {
     return new Promise(function (resolve, reject) {
-      image.resize(width, height, "lanczos", function(err, resizedImage) {
+      image.resize(width, height, "grid", function(err, resizedImage) {
           if (err) { reject(err) } else { resolve(resizedImage); }
       });
     });
@@ -160,47 +173,15 @@ EmojiConverter.prototype._paste = function(position, imageToBePasted, targetImag
 EmojiConverter.prototype.writeImageToFile = function(file, image) {
     return new Promise(function(resolve, reject) {
         image.writeFile(file, function(err) {
-            if (err) {
-                reject(err);
-            } else {
-                resolve(file);
-            }
-        })
-    });
-};
-
-EmojiConverter.prototype.getImageAsBuffer = function(image) {
-    return new Promise(function(resolve, reject) {
-        image.toBuffer("png", {compressions: "fast", interlaced: false, transparency: 'auto'}, function (err, buffer) {
-            if (err) {
-                reject(err);
-            } else {
-                resolve(buffer);
-            }
-        });
-    });
-};
-
-EmojiConverter.prototype._extract = function(chunk, image) {
-    return new Promise(function(resolve, reject) {
-        image.extract(chunk.left, chunk.top, chunk.right, chunk.bottom, function(err, extractedImage) {
-            if (err) {
-                reject(err);
-            } else {
-                resolve(extractedImage);
-            }
+            if (err) { reject(err); } else { resolve(file); }
         })
     });
 };
 
 EmojiConverter.prototype._openImage = function(file) {
     return new Promise(function(resolve, reject) {
-        lwip.open(file, function(err, image) {
-            if (err) {
-                reject(err);
-            } else {
-                resolve(image);
-            }
+        lwip.open(
+            file, function(err, image) { if (err) { reject(err); } else { resolve(image); }
         });
     });
 };
@@ -208,11 +189,7 @@ EmojiConverter.prototype._openImage = function(file) {
 EmojiConverter.prototype._createImage = function(width, height, backgroundColor) {
     return new Promise(function(resolve, reject) {
         lwip.create(width, height, backgroundColor, function(err, image) {
-            if (err) {
-                reject(err);
-            } else {
-                resolve(image);
-            }
+            if (err) { reject(err); } else { resolve(image); }
         });
     });
 };
